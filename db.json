@@ -75,7 +75,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "aphrodite/Aeala/Enterredaas-33b": {
         "name": "aphrodite/Aeala/Enterredaas-33b",
@@ -90,7 +91,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "koboldcpp/Enterredaas-33b": {
         "name": "koboldcpp/Enterredaas-33b",
@@ -105,7 +107,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "Aeala/Enterredaas-65b": {
         "name": "Aeala/Enterredaas-65b",
@@ -120,7 +123,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "aphrodite/Aeala/Enterredaas-65b": {
         "name": "aphrodite/Aeala/Enterredaas-65b",
@@ -135,7 +139,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "koboldcpp/Enterredaas-65b": {
         "name": "koboldcpp/Enterredaas-65b",
@@ -150,7 +155,8 @@
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Long Alpaca"
     },
     "aetherwiing/MN-12B-Starcannon-v3": {
         "name": "aetherwiing/MN-12B-Starcannon-v3",
@@ -164,7 +170,8 @@
         "display_name": "MN 12B Starcannon v3",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/aetherwiing/MN-12B-Starcannon-v3": {
         "name": "aphrodite/aetherwiing/MN-12B-Starcannon-v3",
@@ -178,7 +185,8 @@
         "display_name": "MN 12B Starcannon v3",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/MN-12B-Starcannon-v3": {
         "name": "koboldcpp/MN-12B-Starcannon-v3",
@@ -192,7 +200,8 @@
         "display_name": "MN 12B Starcannon v3",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "ai21labs/AI21-Jamba-1.5-Mini": {
         "name": "ai21labs/AI21-Jamba-1.5-Mini",
@@ -252,7 +261,8 @@
         "url": "https://huggingface.co/alpindale/goliath-120b",
         "tags": [
             "120B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "aphrodite/alpindale/goliath-120b": {
         "name": "aphrodite/alpindale/goliath-120b",
@@ -267,7 +277,8 @@
         "url": "https://huggingface.co/alpindale/goliath-120b",
         "tags": [
             "120B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "koboldcpp/goliath-120b": {
         "name": "koboldcpp/goliath-120b",
@@ -282,7 +293,8 @@
         "url": "https://huggingface.co/alpindale/goliath-120b",
         "tags": [
             "120B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "alpindale/magnum-72b-v1": {
         "name": "alpindale/magnum-72b-v1",
@@ -294,9 +306,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "magnum 72b v1",
+        "url": "https://huggingface.co/anthracite-org/magnum-v1-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/alpindale/magnum-72b-v1": {
         "name": "aphrodite/alpindale/magnum-72b-v1",
@@ -308,9 +322,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "magnum 72b v1",
+        "url": "https://huggingface.co/anthracite-org/magnum-v1-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/magnum-72b-v1": {
         "name": "koboldcpp/magnum-72b-v1",
@@ -322,9 +338,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "magnum 72b v1",
+        "url": "https://huggingface.co/anthracite-org/magnum-v1-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "anthracite-org/magnum-12b-v2": {
         "name": "anthracite-org/magnum-12b-v2",
@@ -408,7 +426,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-123b",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "aphrodite/anthracite-org/magnum-v2-123b": {
         "name": "aphrodite/anthracite-org/magnum-v2-123b",
@@ -423,7 +442,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-123b",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "koboldcpp/magnum-v2-123b": {
         "name": "koboldcpp/magnum-v2-123b",
@@ -438,7 +458,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-123b",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "anthracite-org/magnum-v3-27b-kto": {
         "name": "anthracite-org/magnum-v3-27b-kto",
@@ -510,7 +531,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-34b",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/anthracite-org/magnum-v3-34b": {
         "name": "aphrodite/anthracite-org/magnum-v3-34b",
@@ -525,7 +547,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-34b",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/magnum-v3-34b": {
         "name": "koboldcpp/magnum-v3-34b",
@@ -540,7 +563,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-34b",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "anthracite-org/magnum-v3-9b-chatml": {
         "name": "anthracite-org/magnum-v3-9b-chatml",
@@ -555,7 +579,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-chatml",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/anthracite-org/magnum-v3-9b-chatml": {
         "name": "aphrodite/anthracite-org/magnum-v3-9b-chatml",
@@ -570,7 +595,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-chatml",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/magnum-v3-9b-chatml": {
         "name": "koboldcpp/magnum-v3-9b-chatml",
@@ -585,7 +611,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-chatml",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "anthracite-org/magnum-v3-9b-customgemma2": {
         "name": "anthracite-org/magnum-v3-9b-customgemma2",
@@ -600,7 +627,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-customgemma2",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "customgemma2"
     },
     "aphrodite/anthracite-org/magnum-v3-9b-customgemma2": {
         "name": "aphrodite/anthracite-org/magnum-v3-9b-customgemma2",
@@ -615,7 +643,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-customgemma2",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "customgemma2"
     },
     "koboldcpp/magnum-v3-9b-customgemma2": {
         "name": "koboldcpp/magnum-v3-9b-customgemma2",
@@ -630,7 +659,8 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-9b-customgemma2",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "customgemma2"
     },
     "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
@@ -645,7 +675,8 @@
         "url": "https://huggingface.co/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "aphrodite/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "aphrodite/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
@@ -660,7 +691,8 @@
         "url": "https://huggingface.co/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "koboldcpp/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "koboldcpp/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
@@ -675,7 +707,8 @@
         "url": "https://huggingface.co/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "Austism/chronos-hermes-13b": {
         "name": "Austism/chronos-hermes-13b",
@@ -690,7 +723,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Austism/chronos-hermes-13b": {
         "name": "aphrodite/Austism/chronos-hermes-13b",
@@ -705,7 +739,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-hermes-13b": {
         "name": "koboldcpp/chronos-hermes-13b",
@@ -720,7 +755,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Austism/chronos-hermes-13b-v2": {
         "name": "Austism/chronos-hermes-13b-v2",
@@ -735,7 +771,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Austism/chronos-hermes-13b-v2": {
         "name": "aphrodite/Austism/chronos-hermes-13b-v2",
@@ -750,7 +787,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-hermes-13b-v2": {
         "name": "koboldcpp/chronos-hermes-13b-v2",
@@ -765,7 +803,8 @@
         "url": "https://huggingface.co/Austism/chronos-hermes-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "bigscience/bloom": {
         "name": "bigscience/bloom",
@@ -1185,7 +1224,8 @@
         "url": "https://huggingface.co/bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/bluuwhale/L3-SthenoMaidBlackroot-8B-V1": {
         "name": "aphrodite/bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
@@ -1200,7 +1240,8 @@
         "url": "https://huggingface.co/bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/L3-SthenoMaidBlackroot-8B-V1": {
         "name": "koboldcpp/L3-SthenoMaidBlackroot-8B-V1",
@@ -1215,7 +1256,8 @@
         "url": "https://huggingface.co/bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "Bronya-Rand/Inairtra-7B": {
         "name": "Bronya-Rand/Inairtra-7B",
@@ -1275,7 +1317,8 @@
         "url": "https://huggingface.co/brucethemoose/Yi-34B-200K-RPMerge",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Orca Vicuna"
     },
     "aphrodite/brucethemoose/Yi-34B-200K-RPMerge": {
         "name": "aphrodite/brucethemoose/Yi-34B-200K-RPMerge",
@@ -1290,7 +1333,8 @@
         "url": "https://huggingface.co/brucethemoose/Yi-34B-200K-RPMerge",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Orca Vicuna"
     },
     "koboldcpp/Yi-34B-200K-RPMerge": {
         "name": "koboldcpp/Yi-34B-200K-RPMerge",
@@ -1305,7 +1349,8 @@
         "url": "https://huggingface.co/brucethemoose/Yi-34B-200K-RPMerge",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Orca Vicuna"
     },
     "CalderaAI/13B-BlueMethod": {
         "name": "CalderaAI/13B-BlueMethod",
@@ -1320,7 +1365,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-BlueMethod",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "aphrodite/CalderaAI/13B-BlueMethod": {
         "name": "aphrodite/CalderaAI/13B-BlueMethod",
@@ -1335,7 +1381,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-BlueMethod",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "koboldcpp/13B-BlueMethod": {
         "name": "koboldcpp/13B-BlueMethod",
@@ -1350,7 +1397,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-BlueMethod",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "CalderaAI/13B-Ouroboros": {
         "name": "CalderaAI/13B-Ouroboros",
@@ -1365,7 +1413,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-Ouroboros",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/CalderaAI/13B-Ouroboros": {
         "name": "aphrodite/CalderaAI/13B-Ouroboros",
@@ -1380,7 +1429,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-Ouroboros",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/13B-Ouroboros": {
         "name": "koboldcpp/13B-Ouroboros",
@@ -1395,7 +1445,8 @@
         "url": "https://huggingface.co/CalderaAI/13B-Ouroboros",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "CalderaAI/30B-Epsilon": {
         "name": "CalderaAI/30B-Epsilon",
@@ -1410,7 +1461,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Epsilon",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/CalderaAI/30B-Epsilon": {
         "name": "aphrodite/CalderaAI/30B-Epsilon",
@@ -1425,7 +1477,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Epsilon",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/30B-Epsilon": {
         "name": "koboldcpp/30B-Epsilon",
@@ -1440,7 +1493,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Epsilon",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "CalderaAI/30B-Lazarus": {
         "name": "CalderaAI/30B-Lazarus",
@@ -1455,7 +1509,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Lazarus",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/CalderaAI/30B-Lazarus": {
         "name": "aphrodite/CalderaAI/30B-Lazarus",
@@ -1470,7 +1525,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Lazarus",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/30B-Lazarus": {
         "name": "koboldcpp/30B-Lazarus",
@@ -1485,7 +1541,8 @@
         "url": "https://huggingface.co/CalderaAI/30B-Lazarus",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
@@ -1500,7 +1557,8 @@
         "url": "https://huggingface.co/cgato/L3-TheSpice-8b-v0.8.3",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "aphrodite/cgato/L3-TheSpice-8b-v0.8.3",
@@ -1515,7 +1573,8 @@
         "url": "https://huggingface.co/cgato/L3-TheSpice-8b-v0.8.3",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/L3-TheSpice-8b-v0.8.3": {
         "name": "koboldcpp/L3-TheSpice-8b-v0.8.3",
@@ -1530,7 +1589,8 @@
         "url": "https://huggingface.co/cgato/L3-TheSpice-8b-v0.8.3",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B": {
         "name": "ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
@@ -1545,7 +1605,8 @@
         "url": "https://huggingface.co/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B": {
         "name": "aphrodite/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
@@ -1560,7 +1621,8 @@
         "url": "https://huggingface.co/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Poppy_Porpoise-v0.7-L3-8B": {
         "name": "koboldcpp/Poppy_Porpoise-v0.7-L3-8B",
@@ -1575,7 +1637,8 @@
         "url": "https://huggingface.co/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "chavinlo/gpt4-x-alpaca": {
         "name": "chavinlo/gpt4-x-alpaca",
@@ -1590,7 +1653,8 @@
         "url": "https://huggingface.co/chavinlo/gpt4-x-alpaca",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/chavinlo/gpt4-x-alpaca": {
         "name": "aphrodite/chavinlo/gpt4-x-alpaca",
@@ -1605,7 +1669,8 @@
         "url": "https://huggingface.co/chavinlo/gpt4-x-alpaca",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/gpt4-x-alpaca": {
         "name": "koboldcpp/gpt4-x-alpaca",
@@ -1620,7 +1685,8 @@
         "url": "https://huggingface.co/chavinlo/gpt4-x-alpaca",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "codellama/CodeLlama-13b-hf": {
         "name": "codellama/CodeLlama-13b-hf",
@@ -1905,7 +1971,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/cognitivecomputations/dolphin-2.9-llama3-8b": {
         "name": "aphrodite/cognitivecomputations/dolphin-2.9-llama3-8b",
@@ -1920,7 +1987,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/dolphin-2.9-llama3-8b": {
         "name": "koboldcpp/dolphin-2.9-llama3-8b",
@@ -1935,7 +2003,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
         "name": "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
@@ -1950,7 +2019,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
         "name": "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
@@ -1965,7 +2035,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/dolphin-2.9.3-mistral-nemo-12b": {
         "name": "koboldcpp/dolphin-2.9.3-mistral-nemo-12b",
@@ -1980,7 +2051,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "cognitivecomputations/dolphin-2.9.4-gemma2-2b": {
         "name": "cognitivecomputations/dolphin-2.9.4-gemma2-2b",
@@ -1995,7 +2067,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.4-gemma2-2b",
         "tags": [
             "2B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/cognitivecomputations/dolphin-2.9.4-gemma2-2b": {
         "name": "aphrodite/cognitivecomputations/dolphin-2.9.4-gemma2-2b",
@@ -2010,7 +2083,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.4-gemma2-2b",
         "tags": [
             "2B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/dolphin-2.9.4-gemma2-2b": {
         "name": "koboldcpp/dolphin-2.9.4-gemma2-2b",
@@ -2025,91 +2099,8 @@
         "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9.4-gemma2-2b",
         "tags": [
             "2B"
-        ]
-    },
-    "CohereForAI/c4ai-command-r-08-2024": {
-        "name": "CohereForAI/c4ai-command-r-08-2024",
-        "model_name": "c4ai-command-r-08-2024",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r 08 2024",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/CohereForAI/c4ai-command-r-08-2024": {
-        "name": "aphrodite/CohereForAI/c4ai-command-r-08-2024",
-        "model_name": "c4ai-command-r-08-2024",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r 08 2024",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/c4ai-command-r-08-2024": {
-        "name": "koboldcpp/c4ai-command-r-08-2024",
-        "model_name": "c4ai-command-r-08-2024",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r 08 2024",
-        "tags": [
-            "32B"
-        ]
-    },
-    "CohereForAI/c4ai-command-r-plus-08-2024": {
-        "name": "CohereForAI/c4ai-command-r-plus-08-2024",
-        "model_name": "c4ai-command-r-plus-08-2024",
-        "baseline": "",
-        "parameters": 104000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r plus 08 2024",
-        "tags": [
-            "104B"
-        ]
-    },
-    "aphrodite/CohereForAI/c4ai-command-r-plus-08-2024": {
-        "name": "aphrodite/CohereForAI/c4ai-command-r-plus-08-2024",
-        "model_name": "c4ai-command-r-plus-08-2024",
-        "baseline": "",
-        "parameters": 104000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r plus 08 2024",
-        "tags": [
-            "104B"
-        ]
-    },
-    "koboldcpp/c4ai-command-r-plus-08-2024": {
-        "name": "koboldcpp/c4ai-command-r-plus-08-2024",
-        "model_name": "c4ai-command-r-plus-08-2024",
-        "baseline": "",
-        "parameters": 104000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "c4ai command r plus 08 2024",
-        "tags": [
-            "104B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "CohereForAI/c4ai-command-r-plus": {
         "name": "CohereForAI/c4ai-command-r-plus",
@@ -2124,7 +2115,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus",
         "tags": [
             "104B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "aphrodite/CohereForAI/c4ai-command-r-plus": {
         "name": "aphrodite/CohereForAI/c4ai-command-r-plus",
@@ -2139,7 +2131,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus",
         "tags": [
             "104B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "koboldcpp/c4ai-command-r-plus": {
         "name": "koboldcpp/c4ai-command-r-plus",
@@ -2154,7 +2147,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus",
         "tags": [
             "104B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "CohereForAI/c4ai-command-r-v01": {
         "name": "CohereForAI/c4ai-command-r-v01",
@@ -2169,7 +2163,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-v01",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "aphrodite/CohereForAI/c4ai-command-r-v01": {
         "name": "aphrodite/CohereForAI/c4ai-command-r-v01",
@@ -2184,7 +2179,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-v01",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "koboldcpp/c4ai-command-r-v01": {
         "name": "koboldcpp/c4ai-command-r-v01",
@@ -2199,7 +2195,8 @@
         "url": "https://huggingface.co/CohereForAI/c4ai-command-r-v01",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command-R"
     },
     "crestf411/daybreak-kunoichi-2dpo-7b": {
         "name": "crestf411/daybreak-kunoichi-2dpo-7b",
@@ -2214,7 +2211,8 @@
         "url": "https://huggingface.co/crestf411/daybreak-kunoichi-2dpo-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b": {
         "name": "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b",
@@ -2229,7 +2227,8 @@
         "url": "https://huggingface.co/crestf411/daybreak-kunoichi-2dpo-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/daybreak-kunoichi-2dpo-7b": {
         "name": "koboldcpp/daybreak-kunoichi-2dpo-7b",
@@ -2244,52 +2243,8 @@
         "url": "https://huggingface.co/crestf411/daybreak-kunoichi-2dpo-7b",
         "tags": [
             "7B"
-        ]
-    },
-    "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
-        "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
-        "model_name": "Psyonic-Cetacean-Ultra-Quality-20b",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Psyonic Cetacean Ultra Quality 20b",
-        "url": "https://huggingface.co/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
-        "tags": [
-            "20B"
-        ]
-    },
-    "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
-        "name": "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
-        "model_name": "Psyonic-Cetacean-Ultra-Quality-20b",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Psyonic Cetacean Ultra Quality 20b",
-        "url": "https://huggingface.co/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
-        "tags": [
-            "20B"
-        ]
-    },
-    "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b": {
-        "name": "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b",
-        "model_name": "Psyonic-Cetacean-Ultra-Quality-20b",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Psyonic Cetacean Ultra Quality 20b",
-        "url": "https://huggingface.co/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
-        "tags": [
-            "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
@@ -2304,7 +2259,8 @@
         "url": "https://huggingface.co/digitous/GPT-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "aphrodite/digitous/GPT-R": {
         "name": "aphrodite/digitous/GPT-R",
@@ -2319,7 +2275,8 @@
         "url": "https://huggingface.co/digitous/GPT-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "koboldcpp/GPT-R": {
         "name": "koboldcpp/GPT-R",
@@ -2334,7 +2291,8 @@
         "url": "https://huggingface.co/digitous/GPT-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "digitous/Janin-R": {
         "name": "digitous/Janin-R",
@@ -2349,7 +2307,8 @@
         "url": "https://huggingface.co/digitous/Janin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "aphrodite/digitous/Janin-R": {
         "name": "aphrodite/digitous/Janin-R",
@@ -2364,7 +2323,8 @@
         "url": "https://huggingface.co/digitous/Janin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "koboldcpp/Janin-R": {
         "name": "koboldcpp/Janin-R",
@@ -2379,7 +2339,8 @@
         "url": "https://huggingface.co/digitous/Janin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "digitous/Javelin-R": {
         "name": "digitous/Javelin-R",
@@ -2394,7 +2355,8 @@
         "url": "https://huggingface.co/digitous/Javelin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "aphrodite/digitous/Javelin-R": {
         "name": "aphrodite/digitous/Javelin-R",
@@ -2409,7 +2371,8 @@
         "url": "https://huggingface.co/digitous/Javelin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "koboldcpp/Javelin-R": {
         "name": "koboldcpp/Javelin-R",
@@ -2424,7 +2387,8 @@
         "url": "https://huggingface.co/digitous/Javelin-R",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Anthropic"
     },
     "dreamgen/opus-v1.4-70b-llama3": {
         "name": "dreamgen/opus-v1.4-70b-llama3",
@@ -2439,7 +2403,8 @@
         "url": "https://huggingface.co/dreamgen/opus-v1.4-70b-llama3-gguf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/dreamgen/opus-v1.4-70b-llama3": {
         "name": "aphrodite/dreamgen/opus-v1.4-70b-llama3",
@@ -2454,7 +2419,8 @@
         "url": "https://huggingface.co/dreamgen/opus-v1.4-70b-llama3-gguf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/opus-v1.4-70b-llama3": {
         "name": "koboldcpp/opus-v1.4-70b-llama3",
@@ -2469,7 +2435,8 @@
         "url": "https://huggingface.co/dreamgen/opus-v1.4-70b-llama3-gguf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "ehartford/Wizard-Vicuna-13B-Uncensored": {
         "name": "ehartford/Wizard-Vicuna-13B-Uncensored",
@@ -2484,7 +2451,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-13B-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/Wizard-Vicuna-13B-Uncensored": {
         "name": "aphrodite/ehartford/Wizard-Vicuna-13B-Uncensored",
@@ -2499,7 +2467,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-13B-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Wizard-Vicuna-13B-Uncensored": {
         "name": "koboldcpp/Wizard-Vicuna-13B-Uncensored",
@@ -2514,7 +2483,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-13B-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/Wizard-Vicuna-7B-Uncensored": {
         "name": "ehartford/Wizard-Vicuna-7B-Uncensored",
@@ -2529,7 +2499,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/Wizard-Vicuna-7B-Uncensored": {
         "name": "aphrodite/ehartford/Wizard-Vicuna-7B-Uncensored",
@@ -2544,7 +2515,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Wizard-Vicuna-7B-Uncensored": {
         "name": "koboldcpp/Wizard-Vicuna-7B-Uncensored",
@@ -2559,7 +2531,8 @@
         "url": "https://huggingface.co/cognitivecomputations/Wizard-Vicuna-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-1.0-Uncensored-Llama2-13b": {
         "name": "ehartford/WizardLM-1.0-Uncensored-Llama2-13b",
@@ -2574,7 +2547,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-1.0-Uncensored-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-1.0-Uncensored-Llama2-13b": {
         "name": "aphrodite/ehartford/WizardLM-1.0-Uncensored-Llama2-13b",
@@ -2589,7 +2563,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-1.0-Uncensored-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b": {
         "name": "koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b",
@@ -2604,7 +2579,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-1.0-Uncensored-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-13B-Uncensored": {
         "name": "ehartford/WizardLM-13B-Uncensored",
@@ -2618,7 +2594,8 @@
         "display_name": "WizardLM 13B Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-13B-Uncensored": {
         "name": "aphrodite/ehartford/WizardLM-13B-Uncensored",
@@ -2632,7 +2609,8 @@
         "display_name": "WizardLM 13B Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-13B-Uncensored": {
         "name": "koboldcpp/WizardLM-13B-Uncensored",
@@ -2646,7 +2624,8 @@
         "display_name": "WizardLM 13B Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-13B-V1.0-Uncensored": {
         "name": "ehartford/WizardLM-13B-V1.0-Uncensored",
@@ -2661,7 +2640,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-13B-V1.0-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-13B-V1.0-Uncensored": {
         "name": "aphrodite/ehartford/WizardLM-13B-V1.0-Uncensored",
@@ -2676,7 +2656,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-13B-V1.0-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-13B-V1.0-Uncensored": {
         "name": "koboldcpp/WizardLM-13B-V1.0-Uncensored",
@@ -2691,7 +2672,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-13B-V1.0-Uncensored",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-30B-Uncensored": {
         "name": "ehartford/WizardLM-30B-Uncensored",
@@ -2706,7 +2688,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-30B-Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-30B-Uncensored": {
         "name": "aphrodite/ehartford/WizardLM-30B-Uncensored",
@@ -2721,7 +2704,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-30B-Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-30B-Uncensored": {
         "name": "koboldcpp/WizardLM-30B-Uncensored",
@@ -2736,7 +2720,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-30B-Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-33B-V1.0-Uncensored": {
         "name": "ehartford/WizardLM-33B-V1.0-Uncensored",
@@ -2750,7 +2735,8 @@
         "display_name": "WizardLM 33B V1.0 Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-33B-V1.0-Uncensored": {
         "name": "aphrodite/ehartford/WizardLM-33B-V1.0-Uncensored",
@@ -2764,7 +2750,8 @@
         "display_name": "WizardLM 33B V1.0 Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-33B-V1.0-Uncensored": {
         "name": "koboldcpp/WizardLM-33B-V1.0-Uncensored",
@@ -2778,7 +2765,8 @@
         "display_name": "WizardLM 33B V1.0 Uncensored",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "ehartford/WizardLM-7B-Uncensored": {
         "name": "ehartford/WizardLM-7B-Uncensored",
@@ -2793,7 +2781,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/ehartford/WizardLM-7B-Uncensored": {
         "name": "aphrodite/ehartford/WizardLM-7B-Uncensored",
@@ -2808,7 +2797,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-7B-Uncensored": {
         "name": "koboldcpp/WizardLM-7B-Uncensored",
@@ -2823,7 +2813,8 @@
         "url": "https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "EleutherAI/gpt-j-6B": {
         "name": "EleutherAI/gpt-j-6B",
@@ -4244,7 +4235,8 @@
         "display_name": "ChronoEuryalis 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/ChronoEuryalis-70B": {
         "name": "aphrodite/elinas/ChronoEuryalis-70B",
@@ -4258,7 +4250,8 @@
         "display_name": "ChronoEuryalis 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/ChronoEuryalis-70B": {
         "name": "koboldcpp/ChronoEuryalis-70B",
@@ -4272,7 +4265,8 @@
         "display_name": "ChronoEuryalis 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/chronos-13b": {
         "name": "elinas/chronos-13b",
@@ -4287,7 +4281,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos-13b": {
         "name": "aphrodite/elinas/chronos-13b",
@@ -4302,7 +4297,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-13b": {
         "name": "koboldcpp/chronos-13b",
@@ -4317,7 +4313,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/chronos-13b-v2": {
         "name": "elinas/chronos-13b-v2",
@@ -4332,7 +4329,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos-13b-v2": {
         "name": "aphrodite/elinas/chronos-13b-v2",
@@ -4347,7 +4345,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-13b-v2": {
         "name": "koboldcpp/chronos-13b-v2",
@@ -4362,7 +4361,8 @@
         "url": "https://huggingface.co/elinas/chronos-13b-v2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/chronos-33b": {
         "name": "elinas/chronos-33b",
@@ -4377,7 +4377,8 @@
         "url": "https://huggingface.co/elinas/chronos-33b",
         "tags": [
             "30B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos-33b": {
         "name": "aphrodite/elinas/chronos-33b",
@@ -4392,7 +4393,8 @@
         "url": "https://huggingface.co/elinas/chronos-33b",
         "tags": [
             "30B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-33b": {
         "name": "koboldcpp/chronos-33b",
@@ -4407,7 +4409,8 @@
         "url": "https://huggingface.co/elinas/chronos-33b",
         "tags": [
             "30B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/chronos-70b-v2": {
         "name": "elinas/chronos-70b-v2",
@@ -4422,7 +4425,8 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos-70b-v2": {
         "name": "aphrodite/elinas/chronos-70b-v2",
@@ -4437,7 +4441,8 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-70b-v2": {
         "name": "koboldcpp/chronos-70b-v2",
@@ -4452,7 +4457,8 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/Chronos-Gold-12B-1.0": {
         "name": "elinas/Chronos-Gold-12B-1.0",
@@ -4536,7 +4542,8 @@
         "url": "https://huggingface.co/elinas/chronos-mistral-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos-mistral-7b": {
         "name": "aphrodite/elinas/chronos-mistral-7b",
@@ -4551,7 +4558,8 @@
         "url": "https://huggingface.co/elinas/chronos-mistral-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos-mistral-7b": {
         "name": "koboldcpp/chronos-mistral-7b",
@@ -4566,7 +4574,8 @@
         "url": "https://huggingface.co/elinas/chronos-mistral-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "elinas/chronos007-70b": {
         "name": "elinas/chronos007-70b",
@@ -4581,7 +4590,8 @@
         "url": "https://huggingface.co/elinas/chronos007-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/elinas/chronos007-70b": {
         "name": "aphrodite/elinas/chronos007-70b",
@@ -4596,7 +4606,8 @@
         "url": "https://huggingface.co/elinas/chronos007-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronos007-70b": {
         "name": "koboldcpp/chronos007-70b",
@@ -4611,7 +4622,8 @@
         "url": "https://huggingface.co/elinas/chronos007-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "facebook/opt-1.3b": {
         "name": "facebook/opt-1.3b",
@@ -5301,7 +5313,8 @@
         "url": "https://huggingface.co/fblgit/UNA-TheBeagle-7b-v1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/fblgit/UNA-TheBeagle-7b-v1": {
         "name": "aphrodite/fblgit/UNA-TheBeagle-7b-v1",
@@ -5316,7 +5329,8 @@
         "url": "https://huggingface.co/fblgit/UNA-TheBeagle-7b-v1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/UNA-TheBeagle-7b-v1": {
         "name": "koboldcpp/UNA-TheBeagle-7b-v1",
@@ -5331,7 +5345,8 @@
         "url": "https://huggingface.co/fblgit/UNA-TheBeagle-7b-v1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "froggeric/WestLake-10.7B-v2": {
         "name": "froggeric/WestLake-10.7B-v2",
@@ -5634,7 +5649,8 @@
         "url": "https://huggingface.co/Gryphe/MythoMax-L2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Gryphe/MythoMax-L2-13b": {
         "name": "aphrodite/Gryphe/MythoMax-L2-13b",
@@ -5649,7 +5665,8 @@
         "url": "https://huggingface.co/Gryphe/MythoMax-L2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MythoMax-L2-13b": {
         "name": "koboldcpp/MythoMax-L2-13b",
@@ -5664,7 +5681,8 @@
         "url": "https://huggingface.co/Gryphe/MythoMax-L2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "hakurei/lit-6B": {
         "name": "hakurei/lit-6B",
@@ -5769,7 +5787,8 @@
         "url": "https://huggingface.co/Henk717/airochronos-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Henk717/airochronos-33B": {
         "name": "aphrodite/Henk717/airochronos-33B",
@@ -5784,7 +5803,8 @@
         "url": "https://huggingface.co/Henk717/airochronos-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/airochronos-33B": {
         "name": "koboldcpp/airochronos-33B",
@@ -5799,7 +5819,8 @@
         "url": "https://huggingface.co/Henk717/airochronos-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Henk717/chronoboros-33B": {
         "name": "Henk717/chronoboros-33B",
@@ -5814,7 +5835,8 @@
         "url": "https://huggingface.co/Henk717/chronoboros-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Henk717/chronoboros-33B": {
         "name": "aphrodite/Henk717/chronoboros-33B",
@@ -5829,7 +5851,8 @@
         "url": "https://huggingface.co/Henk717/chronoboros-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/chronoboros-33B": {
         "name": "koboldcpp/chronoboros-33B",
@@ -5844,7 +5867,8 @@
         "url": "https://huggingface.co/Henk717/chronoboros-33B",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Henk717/echidna-tiefigther-25": {
         "name": "Henk717/echidna-tiefigther-25",
@@ -5859,7 +5883,8 @@
         "url": "https://huggingface.co/Henk717/echidna-tiefigther-25",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Henk717/echidna-tiefigther-25": {
         "name": "aphrodite/Henk717/echidna-tiefigther-25",
@@ -5874,7 +5899,8 @@
         "url": "https://huggingface.co/Henk717/echidna-tiefigther-25",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/echidna-tiefigther-25": {
         "name": "koboldcpp/echidna-tiefigther-25",
@@ -5889,7 +5915,8 @@
         "url": "https://huggingface.co/Henk717/echidna-tiefigther-25",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Henk717/spring-dragon": {
         "name": "Henk717/spring-dragon",
@@ -5904,7 +5931,8 @@
         "url": "https://huggingface.co/Henk717/spring-dragon",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Adventure"
     },
     "aphrodite/Henk717/spring-dragon": {
         "name": "aphrodite/Henk717/spring-dragon",
@@ -5919,7 +5947,8 @@
         "url": "https://huggingface.co/Henk717/spring-dragon",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Adventure"
     },
     "koboldcpp/spring-dragon": {
         "name": "koboldcpp/spring-dragon",
@@ -5934,7 +5963,8 @@
         "url": "https://huggingface.co/Henk717/spring-dragon",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Adventure"
     },
     "Himitsui/Kaiju-11B": {
         "name": "Himitsui/Kaiju-11B",
@@ -5949,7 +5979,8 @@
         "url": "https://huggingface.co/Himitsui/Kaiju-11B",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Himitsui/Kaiju-11B": {
         "name": "aphrodite/Himitsui/Kaiju-11B",
@@ -5964,7 +5995,8 @@
         "url": "https://huggingface.co/Himitsui/Kaiju-11B",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Kaiju-11B": {
         "name": "koboldcpp/Kaiju-11B",
@@ -5979,7 +6011,8 @@
         "url": "https://huggingface.co/Himitsui/Kaiju-11B",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
         "name": "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
@@ -5994,7 +6027,8 @@
         "url": "https://huggingface.co/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Zephyr"
     },
     "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
         "name": "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
@@ -6009,7 +6043,8 @@
         "url": "https://huggingface.co/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Zephyr"
     },
     "koboldcpp/zephyr-orpo-141b-A35b-v0.1": {
         "name": "koboldcpp/zephyr-orpo-141b-A35b-v0.1",
@@ -6024,7 +6059,8 @@
         "url": "https://huggingface.co/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Zephyr"
     },
     "IndexTeam/Index-1.9B-Chat": {
         "name": "IndexTeam/Index-1.9B-Chat",
@@ -6081,9 +6117,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
+        "url": "https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/inflatebot/MN-12B-Mag-Mell-R1": {
         "name": "aphrodite/inflatebot/MN-12B-Mag-Mell-R1",
@@ -6095,9 +6133,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
+        "url": "https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/MN-12B-Mag-Mell-R1": {
         "name": "koboldcpp/MN-12B-Mag-Mell-R1",
@@ -6109,9 +6149,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
+        "url": "https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "intervitens/mini-magnum-12b-v1.1": {
         "name": "intervitens/mini-magnum-12b-v1.1",
@@ -6126,7 +6168,8 @@
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken(?)"
     },
     "aphrodite/intervitens/mini-magnum-12b-v1.1": {
         "name": "aphrodite/intervitens/mini-magnum-12b-v1.1",
@@ -6141,7 +6184,8 @@
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken(?)"
     },
     "koboldcpp/mini-magnum-12b-v1.1": {
         "name": "koboldcpp/mini-magnum-12b-v1.1",
@@ -6156,7 +6200,8 @@
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken(?)"
     },
     "jebcarter/psyonic-cetacean-20B": {
         "name": "jebcarter/psyonic-cetacean-20B",
@@ -6225,7 +6270,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.2",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-33b-gpt4-1.2": {
         "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.2",
@@ -6240,7 +6286,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.2",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-33b-gpt4-1.2": {
         "name": "koboldcpp/airoboros-33b-gpt4-1.2",
@@ -6255,7 +6302,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.2",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-33b-gpt4-1.3": {
         "name": "jondurbin/airoboros-33b-gpt4-1.3",
@@ -6270,7 +6318,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.3",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-33b-gpt4-1.3": {
         "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.3",
@@ -6285,7 +6334,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.3",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-33b-gpt4-1.3": {
         "name": "koboldcpp/airoboros-33b-gpt4-1.3",
@@ -6300,7 +6350,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.3",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-33b-gpt4-1.4": {
         "name": "jondurbin/airoboros-33b-gpt4-1.4",
@@ -6315,7 +6366,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.4",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-33b-gpt4-1.4": {
         "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.4",
@@ -6330,7 +6382,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.4",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-33b-gpt4-1.4": {
         "name": "koboldcpp/airoboros-33b-gpt4-1.4",
@@ -6345,7 +6398,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-33b-gpt4-1.4",
         "tags": [
             "33B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-65b-gpt4-1.2": {
         "name": "jondurbin/airoboros-65b-gpt4-1.2",
@@ -6360,7 +6414,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.2",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-65b-gpt4-1.2": {
         "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.2",
@@ -6375,7 +6430,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.2",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-65b-gpt4-1.2": {
         "name": "koboldcpp/airoboros-65b-gpt4-1.2",
@@ -6390,7 +6446,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.2",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-65b-gpt4-1.3": {
         "name": "jondurbin/airoboros-65b-gpt4-1.3",
@@ -6405,7 +6462,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.3",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-65b-gpt4-1.3": {
         "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.3",
@@ -6420,7 +6478,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.3",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-65b-gpt4-1.3": {
         "name": "koboldcpp/airoboros-65b-gpt4-1.3",
@@ -6435,7 +6494,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.3",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-65b-gpt4-1.4": {
         "name": "jondurbin/airoboros-65b-gpt4-1.4",
@@ -6450,7 +6510,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.4",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-65b-gpt4-1.4": {
         "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.4",
@@ -6465,7 +6526,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.4",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-65b-gpt4-1.4": {
         "name": "koboldcpp/airoboros-65b-gpt4-1.4",
@@ -6480,7 +6542,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-65b-gpt4-1.4",
         "tags": [
             "65B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-l2-13b-2.2": {
         "name": "jondurbin/airoboros-l2-13b-2.2",
@@ -6495,7 +6558,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-13b-2.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-l2-13b-2.2": {
         "name": "aphrodite/jondurbin/airoboros-l2-13b-2.2",
@@ -6510,7 +6574,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-13b-2.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-l2-13b-2.2": {
         "name": "koboldcpp/airoboros-l2-13b-2.2",
@@ -6525,7 +6590,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-13b-2.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-l2-7b-2.2": {
         "name": "jondurbin/airoboros-l2-7b-2.2",
@@ -6540,7 +6606,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-7b-2.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/jondurbin/airoboros-l2-7b-2.2": {
         "name": "aphrodite/jondurbin/airoboros-l2-7b-2.2",
@@ -6555,7 +6622,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-7b-2.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-l2-7b-2.2": {
         "name": "koboldcpp/airoboros-l2-7b-2.2",
@@ -6570,7 +6638,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-l2-7b-2.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "jondurbin/airoboros-m-7b-3.0": {
         "name": "jondurbin/airoboros-m-7b-3.0",
@@ -6585,7 +6654,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.0",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/jondurbin/airoboros-m-7b-3.0": {
         "name": "aphrodite/jondurbin/airoboros-m-7b-3.0",
@@ -6600,7 +6670,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.0",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/airoboros-m-7b-3.0": {
         "name": "koboldcpp/airoboros-m-7b-3.0",
@@ -6615,7 +6686,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.0",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "jondurbin/airoboros-m-7b-3.1": {
         "name": "jondurbin/airoboros-m-7b-3.1",
@@ -6629,7 +6701,8 @@
         "display_name": "airoboros m 7b 3.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/jondurbin/airoboros-m-7b-3.1": {
         "name": "aphrodite/jondurbin/airoboros-m-7b-3.1",
@@ -6643,7 +6716,8 @@
         "display_name": "airoboros m 7b 3.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/airoboros-m-7b-3.1": {
         "name": "koboldcpp/airoboros-m-7b-3.1",
@@ -6657,7 +6731,8 @@
         "display_name": "airoboros m 7b 3.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "jondurbin/airoboros-m-7b-3.1.2": {
         "name": "jondurbin/airoboros-m-7b-3.1.2",
@@ -6672,7 +6747,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.1.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/jondurbin/airoboros-m-7b-3.1.2": {
         "name": "aphrodite/jondurbin/airoboros-m-7b-3.1.2",
@@ -6687,7 +6763,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.1.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/airoboros-m-7b-3.1.2": {
         "name": "koboldcpp/airoboros-m-7b-3.1.2",
@@ -6702,7 +6779,8 @@
         "url": "https://huggingface.co/jondurbin/airoboros-m-7b-3.1.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "jondurbin/bagel-34b-v0.2": {
         "name": "jondurbin/bagel-34b-v0.2",
@@ -6717,7 +6795,8 @@
         "url": "https://huggingface.co/jondurbin/bagel-34b-v0.2",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Alpaca,Vicuna,ChatML,Llama2"
     },
     "aphrodite/jondurbin/bagel-34b-v0.2": {
         "name": "aphrodite/jondurbin/bagel-34b-v0.2",
@@ -6732,7 +6811,8 @@
         "url": "https://huggingface.co/jondurbin/bagel-34b-v0.2",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Alpaca,Vicuna,ChatML,Llama2"
     },
     "koboldcpp/bagel-34b-v0.2": {
         "name": "koboldcpp/bagel-34b-v0.2",
@@ -6747,7 +6827,8 @@
         "url": "https://huggingface.co/jondurbin/bagel-34b-v0.2",
         "tags": [
             "34B"
-        ]
+        ],
+        "instruct_format": "Alpaca,Vicuna,ChatML,Llama2"
     },
     "KatyTheCutie/EstopianMaid-13B": {
         "name": "KatyTheCutie/EstopianMaid-13B",
@@ -7449,7 +7530,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-J-6B-Adventure",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "aphrodite/KoboldAI/GPT-J-6B-Adventure": {
         "name": "aphrodite/KoboldAI/GPT-J-6B-Adventure",
@@ -7464,7 +7546,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-J-6B-Adventure",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "koboldcpp/GPT-J-6B-Adventure": {
         "name": "koboldcpp/GPT-J-6B-Adventure",
@@ -7479,7 +7562,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-J-6B-Adventure",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "KoboldAI/GPT-J-6B-Janeway": {
         "name": "KoboldAI/GPT-J-6B-Janeway",
@@ -7629,7 +7713,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-Neo-1.3B-Adventure",
         "tags": [
             "1B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "aphrodite/KoboldAI/GPT-Neo-1.3B-Adventure": {
         "name": "aphrodite/KoboldAI/GPT-Neo-1.3B-Adventure",
@@ -7644,7 +7729,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-Neo-1.3B-Adventure",
         "tags": [
             "1B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "koboldcpp/GPT-Neo-1.3B-Adventure": {
         "name": "koboldcpp/GPT-Neo-1.3B-Adventure",
@@ -7659,7 +7745,8 @@
         "url": "https://huggingface.co/KoboldAI/GPT-Neo-1.3B-Adventure",
         "tags": [
             "1B"
-        ]
+        ],
+        "instruct_format": "Adventure"
     },
     "KoboldAI/GPT-Neo-1.3B-Ramsay": {
         "name": "KoboldAI/GPT-Neo-1.3B-Ramsay",
@@ -8124,7 +8211,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/KoboldAI/LLaMA2-13B-Estopia": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-Estopia",
@@ -8139,7 +8227,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/LLaMA2-13B-Estopia": {
         "name": "koboldcpp/LLaMA2-13B-Estopia",
@@ -8154,7 +8243,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Estopia",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "KoboldAI/LLAMA2-13B-Holodeck-1": {
         "name": "KoboldAI/LLAMA2-13B-Holodeck-1",
@@ -8214,7 +8304,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/KoboldAI/LLaMA2-13B-Holomax": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-Holomax",
@@ -8229,7 +8320,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/LLaMA2-13B-Holomax": {
         "name": "koboldcpp/LLaMA2-13B-Holomax",
@@ -8244,7 +8336,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Holomax",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "KoboldAI/LLaMA2-13B-Psyfighter2": {
         "name": "KoboldAI/LLaMA2-13B-Psyfighter2",
@@ -8259,7 +8352,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/KoboldAI/LLaMA2-13B-Psyfighter2": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-Psyfighter2",
@@ -8274,7 +8368,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/LLaMA2-13B-Psyfighter2": {
         "name": "koboldcpp/LLaMA2-13B-Psyfighter2",
@@ -8289,7 +8384,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "KoboldAI/LLaMA2-13B-Tiefighter": {
         "name": "KoboldAI/LLaMA2-13B-Tiefighter",
@@ -8361,7 +8457,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR",
@@ -8376,7 +8473,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/LLaMA2-13B-TiefighterLR": {
         "name": "koboldcpp/LLaMA2-13B-TiefighterLR",
@@ -8391,7 +8489,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "KoboldAI/LLaMA2-13B-TieWriter": {
         "name": "KoboldAI/LLaMA2-13B-TieWriter",
@@ -9078,7 +9177,8 @@
         "url": "https://huggingface.co/lightblue/Karasu-Mixtral-8x22B-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "aphrodite/lightblue/Karasu-Mixtral-8x22B-v0.1": {
         "name": "aphrodite/lightblue/Karasu-Mixtral-8x22B-v0.1",
@@ -9093,7 +9193,8 @@
         "url": "https://huggingface.co/lightblue/Karasu-Mixtral-8x22B-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "koboldcpp/Karasu-Mixtral-8x22B-v0.1": {
         "name": "koboldcpp/Karasu-Mixtral-8x22B-v0.1",
@@ -9108,7 +9209,8 @@
         "url": "https://huggingface.co/lightblue/Karasu-Mixtral-8x22B-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "lizpreciatior/lzlv_70b_fp16_hf": {
         "name": "lizpreciatior/lzlv_70b_fp16_hf",
@@ -9123,7 +9225,8 @@
         "url": "https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/lizpreciatior/lzlv_70b_fp16_hf": {
         "name": "aphrodite/lizpreciatior/lzlv_70b_fp16_hf",
@@ -9138,7 +9241,8 @@
         "url": "https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/lzlv_70b_fp16_hf": {
         "name": "koboldcpp/lzlv_70b_fp16_hf",
@@ -9153,7 +9257,8 @@
         "url": "https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "MarsupialAI/Aqueducts-18B": {
         "name": "MarsupialAI/Aqueducts-18B",
@@ -9168,7 +9273,8 @@
         "url": "https://huggingface.co/MarsupialAI/Aqueducts-18B",
         "tags": [
             "18B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/MarsupialAI/Aqueducts-18B": {
         "name": "aphrodite/MarsupialAI/Aqueducts-18B",
@@ -9183,7 +9289,8 @@
         "url": "https://huggingface.co/MarsupialAI/Aqueducts-18B",
         "tags": [
             "18B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Aqueducts-18B": {
         "name": "koboldcpp/Aqueducts-18B",
@@ -9198,7 +9305,8 @@
         "url": "https://huggingface.co/MarsupialAI/Aqueducts-18B",
         "tags": [
             "18B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "MarsupialAI/HelloNurse-11b": {
         "name": "MarsupialAI/HelloNurse-11b",
@@ -9213,7 +9321,8 @@
         "url": "https://huggingface.co/MarsupialAI/HelloNurse-11b",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/MarsupialAI/HelloNurse-11b": {
         "name": "aphrodite/MarsupialAI/HelloNurse-11b",
@@ -9228,7 +9337,8 @@
         "url": "https://huggingface.co/MarsupialAI/HelloNurse-11b",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/HelloNurse-11b": {
         "name": "koboldcpp/HelloNurse-11b",
@@ -9243,7 +9353,8 @@
         "url": "https://huggingface.co/MarsupialAI/HelloNurse-11b",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "MarsupialAI/IxChel-L3-12B": {
         "name": "MarsupialAI/IxChel-L3-12B",
@@ -9258,7 +9369,8 @@
         "url": "https://huggingface.co/MarsupialAI/IxChel-L3-12B",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/MarsupialAI/IxChel-L3-12B": {
         "name": "aphrodite/MarsupialAI/IxChel-L3-12B",
@@ -9273,7 +9385,8 @@
         "url": "https://huggingface.co/MarsupialAI/IxChel-L3-12B",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/IxChel-L3-12B": {
         "name": "koboldcpp/IxChel-L3-12B",
@@ -9288,7 +9401,8 @@
         "url": "https://huggingface.co/MarsupialAI/IxChel-L3-12B",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "MarsupialAI/JerseyDevil-14b": {
         "name": "MarsupialAI/JerseyDevil-14b",
@@ -9303,7 +9417,8 @@
         "url": "https://huggingface.co/MarsupialAI/JerseyDevil-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/MarsupialAI/JerseyDevil-14b": {
         "name": "aphrodite/MarsupialAI/JerseyDevil-14b",
@@ -9318,7 +9433,8 @@
         "url": "https://huggingface.co/MarsupialAI/JerseyDevil-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/JerseyDevil-14b": {
         "name": "koboldcpp/JerseyDevil-14b",
@@ -9333,7 +9449,8 @@
         "url": "https://huggingface.co/MarsupialAI/JerseyDevil-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "MarsupialAI/KitchenSink_103b": {
         "name": "MarsupialAI/KitchenSink_103b",
@@ -9348,7 +9465,8 @@
         "url": "https://huggingface.co/MarsupialAI/KitchenSink_103b",
         "tags": [
             "103B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/MarsupialAI/KitchenSink_103b": {
         "name": "aphrodite/MarsupialAI/KitchenSink_103b",
@@ -9363,7 +9481,8 @@
         "url": "https://huggingface.co/MarsupialAI/KitchenSink_103b",
         "tags": [
             "103B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/KitchenSink_103b": {
         "name": "koboldcpp/KitchenSink_103b",
@@ -9378,7 +9497,8 @@
         "url": "https://huggingface.co/MarsupialAI/KitchenSink_103b",
         "tags": [
             "103B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "MarsupialAI/SkunkApe-14b": {
         "name": "MarsupialAI/SkunkApe-14b",
@@ -9393,7 +9513,8 @@
         "url": "https://huggingface.co/MarsupialAI/SkunkApe-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/MarsupialAI/SkunkApe-14b": {
         "name": "aphrodite/MarsupialAI/SkunkApe-14b",
@@ -9408,7 +9529,8 @@
         "url": "https://huggingface.co/MarsupialAI/SkunkApe-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/SkunkApe-14b": {
         "name": "koboldcpp/SkunkApe-14b",
@@ -9423,7 +9545,8 @@
         "url": "https://huggingface.co/MarsupialAI/SkunkApe-14b",
         "tags": [
             "14B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Merry/AID-Neo-125M": {
         "name": "Merry/AID-Neo-125M",
@@ -9480,7 +9603,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-13b-chat-hf",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/meta-llama/Llama-2-13b-chat-hf": {
         "name": "aphrodite/meta-llama/Llama-2-13b-chat-hf",
@@ -9495,7 +9619,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-13b-chat-hf",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/Llama-2-13b-chat-hf": {
         "name": "koboldcpp/Llama-2-13b-chat-hf",
@@ -9510,7 +9635,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-13b-chat-hf",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "meta-llama/Llama-2-13b-hf": {
         "name": "meta-llama/Llama-2-13b-hf",
@@ -9570,7 +9696,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-70b-chat-hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/meta-llama/Llama-2-70b-chat-hf": {
         "name": "aphrodite/meta-llama/Llama-2-70b-chat-hf",
@@ -9585,7 +9712,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-70b-chat-hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/Llama-2-70b-chat-hf": {
         "name": "koboldcpp/Llama-2-70b-chat-hf",
@@ -9600,7 +9728,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-70b-chat-hf",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "meta-llama/Llama-2-70b-hf": {
         "name": "meta-llama/Llama-2-70b-hf",
@@ -9660,7 +9789,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-7b-chat-hf",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "aphrodite/meta-llama/Llama-2-7b-chat-hf": {
         "name": "aphrodite/meta-llama/Llama-2-7b-chat-hf",
@@ -9675,7 +9805,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-7b-chat-hf",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "koboldcpp/Llama-2-7b-chat-hf": {
         "name": "koboldcpp/Llama-2-7b-chat-hf",
@@ -9690,7 +9821,8 @@
         "url": "https://huggingface.co/meta-llama/Llama-2-7b-chat-hf",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Llama2"
     },
     "meta-llama/Llama-2-7b-hf": {
         "name": "meta-llama/Llama-2-7b-hf",
@@ -9795,7 +9927,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct": {
         "name": "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct",
@@ -9810,7 +9943,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Meta-Llama-3-70B-Instruct": {
         "name": "koboldcpp/Meta-Llama-3-70B-Instruct",
@@ -9825,7 +9959,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "meta-llama/Meta-Llama-3-8B": {
         "name": "meta-llama/Meta-Llama-3-8B",
@@ -9885,7 +10020,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct": {
         "name": "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct",
@@ -9900,7 +10036,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Meta-Llama-3-8B-Instruct": {
         "name": "koboldcpp/Meta-Llama-3-8B-Instruct",
@@ -9915,7 +10052,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "meta-llama/Meta-Llama-3.1-8B-Instruct": {
         "name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
@@ -9930,7 +10068,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
         "name": "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct",
@@ -9945,7 +10084,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
         "name": "koboldcpp/Meta-Llama-3.1-8B-Instruct",
@@ -9960,7 +10100,8 @@
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "microsoft/WizardLM-2-70B": {
         "name": "microsoft/WizardLM-2-70B",
@@ -10017,7 +10158,8 @@
         "url": "https://huggingface.co/lucyknada/microsoft_WizardLM-2-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/microsoft/WizardLM-2-7B": {
         "name": "aphrodite/microsoft/WizardLM-2-7B",
@@ -10032,7 +10174,8 @@
         "url": "https://huggingface.co/lucyknada/microsoft_WizardLM-2-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-2-7B": {
         "name": "koboldcpp/WizardLM-2-7B",
@@ -10047,7 +10190,8 @@
         "url": "https://huggingface.co/lucyknada/microsoft_WizardLM-2-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "microsoft/WizardLM-2-8x22B": {
         "name": "microsoft/WizardLM-2-8x22B",
@@ -10062,7 +10206,8 @@
         "url": "https://huggingface.co/alpindale/WizardLM-2-8x22B",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/microsoft/WizardLM-2-8x22B": {
         "name": "aphrodite/microsoft/WizardLM-2-8x22B",
@@ -10077,7 +10222,8 @@
         "url": "https://huggingface.co/alpindale/WizardLM-2-8x22B",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/WizardLM-2-8x22B": {
         "name": "koboldcpp/WizardLM-2-8x22B",
@@ -10092,7 +10238,8 @@
         "url": "https://huggingface.co/alpindale/WizardLM-2-8x22B",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "mistralai/Mistral-7B-Instruct-v0.1": {
         "name": "mistralai/Mistral-7B-Instruct-v0.1",
@@ -10107,7 +10254,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "aphrodite/mistralai/Mistral-7B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mistral-7B-Instruct-v0.1",
@@ -10122,7 +10270,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "koboldcpp/Mistral-7B-Instruct-v0.1": {
         "name": "koboldcpp/Mistral-7B-Instruct-v0.1",
@@ -10137,7 +10286,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Mistral v1"
     },
     "mistralai/Mistral-7B-v0.1": {
         "name": "mistralai/Mistral-7B-v0.1",
@@ -10197,7 +10347,8 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1",
@@ -10212,7 +10363,8 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "koboldcpp/Mixtral-8x22B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x22B-Instruct-v0.1",
@@ -10227,7 +10379,8 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
             "88B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
@@ -10245,7 +10398,7 @@
             "generalist",
             "popular"
         ],
-        "instruct_format": "Mistral"
+        "instruct_format": "Mistral v1"
     },
     "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
@@ -10263,7 +10416,7 @@
             "generalist",
             "popular"
         ],
-        "instruct_format": "Mistral"
+        "instruct_format": "Mistral v1"
     },
     "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
@@ -10281,7 +10434,7 @@
             "generalist",
             "popular"
         ],
-        "instruct_format": "Mistral"
+        "instruct_format": "Mistral v1"
     },
     "mistralai/Mistral-Large-Instruct-2407": {
         "name": "mistralai/Mistral-Large-Instruct-2407",
@@ -10296,7 +10449,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "aphrodite/mistralai/Mistral-Large-Instruct-2407": {
         "name": "aphrodite/mistralai/Mistral-Large-Instruct-2407",
@@ -10311,7 +10465,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "koboldcpp/Mistral-Large-Instruct-2407": {
         "name": "koboldcpp/Mistral-Large-Instruct-2407",
@@ -10326,7 +10481,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "mistralai/Mistral-Nemo-Instruct-2407": {
         "name": "mistralai/Mistral-Nemo-Instruct-2407",
@@ -10341,7 +10497,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "aphrodite/mistralai/Mistral-Nemo-Instruct-2407": {
         "name": "aphrodite/mistralai/Mistral-Nemo-Instruct-2407",
@@ -10356,7 +10513,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "koboldcpp/Mistral-Nemo-Instruct-2407": {
         "name": "koboldcpp/Mistral-Nemo-Instruct-2407",
@@ -10371,7 +10529,8 @@
         "url": "https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "mistralai/Mistral-Small-Instruct-2409": {
         "name": "mistralai/Mistral-Small-Instruct-2409",
@@ -10707,7 +10866,8 @@
         "url": "https://huggingface.co/mosaicml/mpt-7b-instruct",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/mosaicml/mpt-7b-instruct": {
         "name": "aphrodite/mosaicml/mpt-7b-instruct",
@@ -10722,7 +10882,8 @@
         "url": "https://huggingface.co/mosaicml/mpt-7b-instruct",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/mpt-7b-instruct": {
         "name": "koboldcpp/mpt-7b-instruct",
@@ -10737,7 +10898,8 @@
         "url": "https://huggingface.co/mosaicml/mpt-7b-instruct",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "mosaicml/mpt-7b-storywriter": {
         "name": "mosaicml/mpt-7b-storywriter",
@@ -10797,7 +10959,8 @@
         "url": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Echidna-13b-v0.3": {
         "name": "aphrodite/NeverSleep/Echidna-13b-v0.3",
@@ -10812,7 +10975,8 @@
         "url": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Echidna-13b-v0.3": {
         "name": "koboldcpp/Echidna-13b-v0.3",
@@ -10827,7 +10991,8 @@
         "url": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Llama-3-Lumimaid-70B-v0.1": {
         "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1",
@@ -10842,7 +11007,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1",
@@ -10857,7 +11023,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Llama-3-Lumimaid-70B-v0.1": {
         "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1",
@@ -10872,7 +11039,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
         "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
@@ -10887,7 +11055,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
@@ -10902,7 +11071,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS": {
         "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS",
@@ -10917,7 +11087,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
         "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1",
@@ -10935,7 +11106,7 @@
             "popular",
             "roleplay"
         ],
-        "instruct_format": "Llama 3"
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1",
@@ -10953,7 +11124,7 @@
             "popular",
             "roleplay"
         ],
-        "instruct_format": "Llama 3"
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Llama-3-Lumimaid-8B-v0.1": {
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1",
@@ -10971,7 +11142,7 @@
             "popular",
             "roleplay"
         ],
-        "instruct_format": "Llama 3"
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -10986,7 +11157,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -11001,7 +11173,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -11016,7 +11189,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Lumimaid-v0.2-8B": {
         "name": "NeverSleep/Lumimaid-v0.2-8B",
@@ -11031,7 +11205,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Lumimaid-v0.2-8B": {
         "name": "aphrodite/NeverSleep/Lumimaid-v0.2-8B",
@@ -11046,7 +11221,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Lumimaid-v0.2-8B": {
         "name": "koboldcpp/Lumimaid-v0.2-8B",
@@ -11061,7 +11237,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Lumimaid-v0.2-12B": {
         "name": "NeverSleep/Lumimaid-v0.2-12B",
@@ -11142,7 +11319,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "aphrodite/NeverSleep/Lumimaid-v0.2-70B": {
         "name": "aphrodite/NeverSleep/Lumimaid-v0.2-70B",
@@ -11157,7 +11335,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "koboldcpp/Lumimaid-v0.2-70B": {
         "name": "koboldcpp/Lumimaid-v0.2-70B",
@@ -11172,7 +11351,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama3"
     },
     "NeverSleep/Lumimaid-v0.2-123B": {
         "name": "NeverSleep/Lumimaid-v0.2-123B",
@@ -11187,7 +11367,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "aphrodite/NeverSleep/Lumimaid-v0.2-123B": {
         "name": "aphrodite/NeverSleep/Lumimaid-v0.2-123B",
@@ -11202,7 +11383,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "koboldcpp/Lumimaid-v0.2-123B": {
         "name": "koboldcpp/Lumimaid-v0.2-123B",
@@ -11217,7 +11399,8 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral v3"
     },
     "NeverSleep/Noromaid-13b-v0.1.1": {
         "name": "NeverSleep/Noromaid-13b-v0.1.1",
@@ -11232,7 +11415,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.1.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-13b-v0.1.1": {
         "name": "aphrodite/NeverSleep/Noromaid-13b-v0.1.1",
@@ -11247,7 +11431,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.1.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-13b-v0.1.1": {
         "name": "koboldcpp/Noromaid-13b-v0.1.1",
@@ -11262,7 +11447,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.1.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-13b-v0.2": {
         "name": "NeverSleep/Noromaid-13b-v0.2",
@@ -11277,7 +11463,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-13b-v0.2": {
         "name": "aphrodite/NeverSleep/Noromaid-13b-v0.2",
@@ -11292,7 +11479,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-13b-v0.2": {
         "name": "koboldcpp/Noromaid-13b-v0.2",
@@ -11307,7 +11495,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-13b-v0.3": {
         "name": "NeverSleep/Noromaid-13b-v0.3",
@@ -11322,7 +11511,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-13b-v0.3": {
         "name": "aphrodite/NeverSleep/Noromaid-13b-v0.3",
@@ -11337,7 +11527,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-13b-v0.3": {
         "name": "koboldcpp/Noromaid-13b-v0.3",
@@ -11352,7 +11543,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-13b-v0.3",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-20b-v0.1.1": {
         "name": "NeverSleep/Noromaid-20b-v0.1.1",
@@ -11367,7 +11559,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-20b-v0.1.1",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-20b-v0.1.1": {
         "name": "aphrodite/NeverSleep/Noromaid-20b-v0.1.1",
@@ -11382,7 +11575,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-20b-v0.1.1",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-20b-v0.1.1": {
         "name": "koboldcpp/Noromaid-20b-v0.1.1",
@@ -11397,7 +11591,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-20b-v0.1.1",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-7b-v0.1.1": {
         "name": "NeverSleep/Noromaid-7b-v0.1.1",
@@ -11412,7 +11607,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-7b-v0.1.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-7b-v0.1.1": {
         "name": "aphrodite/NeverSleep/Noromaid-7b-v0.1.1",
@@ -11427,7 +11623,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-7b-v0.1.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-7b-v0.1.1": {
         "name": "koboldcpp/Noromaid-7b-v0.1.1",
@@ -11442,7 +11639,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-7b-v0.1.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
@@ -11457,7 +11655,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "tags": [
             "28B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
@@ -11472,7 +11671,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "tags": [
             "28B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3",
@@ -11487,7 +11687,8 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "tags": [
             "28B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
         "name": "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
@@ -11571,7 +11772,8 @@
         "url": "https://huggingface.co/Norquinal/Mistral-7B-claude-chat",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Norquinal/Mistral-7B-claude-chat": {
         "name": "aphrodite/Norquinal/Mistral-7B-claude-chat",
@@ -11586,7 +11788,8 @@
         "url": "https://huggingface.co/Norquinal/Mistral-7B-claude-chat",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Mistral-7B-claude-chat": {
         "name": "koboldcpp/Mistral-7B-claude-chat",
@@ -11601,7 +11804,8 @@
         "url": "https://huggingface.co/Norquinal/Mistral-7B-claude-chat",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "nothingiisreal/Celeste-12B-V1.6": {
         "name": "nothingiisreal/Celeste-12B-V1.6",
@@ -11682,7 +11886,8 @@
         "url": "https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/NousResearch/Hermes-2-Theta-Llama-3-70B": {
         "name": "aphrodite/NousResearch/Hermes-2-Theta-Llama-3-70B",
@@ -11697,7 +11902,8 @@
         "url": "https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/Hermes-2-Theta-Llama-3-70B": {
         "name": "koboldcpp/Hermes-2-Theta-Llama-3-70B",
@@ -11712,7 +11918,8 @@
         "url": "https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "NousResearch/Nous-Hermes-Llama2-13b": {
         "name": "NousResearch/Nous-Hermes-Llama2-13b",
@@ -11727,7 +11934,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NousResearch/Nous-Hermes-Llama2-13b": {
         "name": "aphrodite/NousResearch/Nous-Hermes-Llama2-13b",
@@ -11742,7 +11950,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Nous-Hermes-Llama2-13b": {
         "name": "koboldcpp/Nous-Hermes-Llama2-13b",
@@ -11757,7 +11966,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NousResearch/Nous-Hermes-Llama2-70b": {
         "name": "NousResearch/Nous-Hermes-Llama2-70b",
@@ -11772,7 +11982,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NousResearch/Nous-Hermes-Llama2-70b": {
         "name": "aphrodite/NousResearch/Nous-Hermes-Llama2-70b",
@@ -11787,7 +11998,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Nous-Hermes-Llama2-70b": {
         "name": "koboldcpp/Nous-Hermes-Llama2-70b",
@@ -11802,7 +12014,8 @@
         "url": "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-70b",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "NousResearch/Redmond-Puffin-13B": {
         "name": "NousResearch/Redmond-Puffin-13B",
@@ -11817,7 +12030,8 @@
         "url": "https://huggingface.co/NousResearch/Redmond-Puffin-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/NousResearch/Redmond-Puffin-13B": {
         "name": "aphrodite/NousResearch/Redmond-Puffin-13B",
@@ -11832,7 +12046,8 @@
         "url": "https://huggingface.co/NousResearch/Redmond-Puffin-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Redmond-Puffin-13B": {
         "name": "koboldcpp/Redmond-Puffin-13B",
@@ -11847,7 +12062,8 @@
         "url": "https://huggingface.co/NousResearch/Redmond-Puffin-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "NyxKrage/Chronomaid-Storytelling-13b": {
         "name": "NyxKrage/Chronomaid-Storytelling-13b",
@@ -11862,7 +12078,8 @@
         "url": "https://huggingface.co/NyxKrage/Chronomaid-Storytelling-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/NyxKrage/Chronomaid-Storytelling-13b": {
         "name": "aphrodite/NyxKrage/Chronomaid-Storytelling-13b",
@@ -11877,7 +12094,8 @@
         "url": "https://huggingface.co/NyxKrage/Chronomaid-Storytelling-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Chronomaid-Storytelling-13b": {
         "name": "koboldcpp/Chronomaid-Storytelling-13b",
@@ -11892,7 +12110,8 @@
         "url": "https://huggingface.co/NyxKrage/Chronomaid-Storytelling-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "openaccess-ai-collective/manticore-13b": {
         "name": "openaccess-ai-collective/manticore-13b",
@@ -11907,7 +12126,8 @@
         "url": "https://huggingface.co/openaccess-ai-collective/manticore-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/openaccess-ai-collective/manticore-13b": {
         "name": "aphrodite/openaccess-ai-collective/manticore-13b",
@@ -11922,7 +12142,8 @@
         "url": "https://huggingface.co/openaccess-ai-collective/manticore-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/manticore-13b": {
         "name": "koboldcpp/manticore-13b",
@@ -11937,7 +12158,8 @@
         "url": "https://huggingface.co/openaccess-ai-collective/manticore-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "OpenAssistant/oasst-sft-1-pythia-12b": {
         "name": "OpenAssistant/oasst-sft-1-pythia-12b",
@@ -12042,7 +12264,8 @@
         "url": "https://huggingface.co/PygmalionAI/mythalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Metharme"
     },
     "aphrodite/PygmalionAI/mythalion-13b": {
         "name": "aphrodite/PygmalionAI/mythalion-13b",
@@ -12057,7 +12280,8 @@
         "url": "https://huggingface.co/PygmalionAI/mythalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Metharme"
     },
     "koboldcpp/mythalion-13b": {
         "name": "koboldcpp/mythalion-13b",
@@ -12072,7 +12296,8 @@
         "url": "https://huggingface.co/PygmalionAI/mythalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Metharme"
     },
     "PygmalionAI/pygmalion-1.3b": {
         "name": "PygmalionAI/pygmalion-1.3b",
@@ -12132,7 +12357,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/PygmalionAI/pygmalion-13b": {
         "name": "aphrodite/PygmalionAI/pygmalion-13b",
@@ -12147,7 +12373,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/pygmalion-13b": {
         "name": "koboldcpp/pygmalion-13b",
@@ -12162,7 +12389,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "PygmalionAI/pygmalion-2-13b": {
         "name": "PygmalionAI/pygmalion-2-13b",
@@ -12177,7 +12405,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "aphrodite/PygmalionAI/pygmalion-2-13b": {
         "name": "aphrodite/PygmalionAI/pygmalion-2-13b",
@@ -12192,7 +12421,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "koboldcpp/pygmalion-2-13b": {
         "name": "koboldcpp/pygmalion-2-13b",
@@ -12207,7 +12437,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-13b",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "PygmalionAI/pygmalion-2-7b": {
         "name": "PygmalionAI/pygmalion-2-7b",
@@ -12222,7 +12453,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "aphrodite/PygmalionAI/pygmalion-2-7b": {
         "name": "aphrodite/PygmalionAI/pygmalion-2-7b",
@@ -12237,7 +12469,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "koboldcpp/pygmalion-2-7b": {
         "name": "koboldcpp/pygmalion-2-7b",
@@ -12252,7 +12485,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Metharme"
     },
     "PygmalionAI/pygmalion-2.7b": {
         "name": "PygmalionAI/pygmalion-2.7b",
@@ -12267,7 +12501,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2.7b",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/PygmalionAI/pygmalion-2.7b": {
         "name": "aphrodite/PygmalionAI/pygmalion-2.7b",
@@ -12282,7 +12517,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2.7b",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/pygmalion-2.7b": {
         "name": "koboldcpp/pygmalion-2.7b",
@@ -12297,7 +12533,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-2.7b",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "PygmalionAI/pygmalion-350m": {
         "name": "PygmalionAI/pygmalion-350m",
@@ -12357,7 +12594,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-6b",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/PygmalionAI/pygmalion-6b": {
         "name": "aphrodite/PygmalionAI/pygmalion-6b",
@@ -12372,7 +12610,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-6b",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/pygmalion-6b": {
         "name": "koboldcpp/pygmalion-6b",
@@ -12387,7 +12626,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-6b",
         "tags": [
             "6B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "PygmalionAI/pygmalion-7b": {
         "name": "PygmalionAI/pygmalion-7b",
@@ -12402,7 +12642,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/PygmalionAI/pygmalion-7b": {
         "name": "aphrodite/PygmalionAI/pygmalion-7b",
@@ -12417,7 +12658,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/pygmalion-7b": {
         "name": "koboldcpp/pygmalion-7b",
@@ -12432,7 +12674,8 @@
         "url": "https://huggingface.co/PygmalionAI/pygmalion-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Qwen/Qwen1.5-0.5B": {
         "name": "Qwen/Qwen1.5-0.5B",
@@ -13199,48 +13442,6 @@
             "7B"
         ]
     },
-    "Qwen/Qwen2.5-14B-Instruct": {
-        "name": "Qwen/Qwen2.5-14B-Instruct",
-        "model_name": "Qwen2.5-14B-Instruct",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-14B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-14B-Instruct",
-        "model_name": "Qwen2.5-14B-Instruct",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-14B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-14B-Instruct",
-        "model_name": "Qwen2.5-14B-Instruct",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct",
-        "tags": [
-            "14B"
-        ]
-    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "model_name": "qilin-lit-6b",
@@ -13299,7 +13500,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Kunoichi-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/SanjiWatsuki/Kunoichi-7B": {
         "name": "aphrodite/SanjiWatsuki/Kunoichi-7B",
@@ -13314,7 +13516,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Kunoichi-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Kunoichi-7B": {
         "name": "koboldcpp/Kunoichi-7B",
@@ -13329,7 +13532,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Kunoichi-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "SanjiWatsuki/Silicon-Maid-7B": {
         "name": "SanjiWatsuki/Silicon-Maid-7B",
@@ -13344,7 +13548,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Silicon-Maid-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/SanjiWatsuki/Silicon-Maid-7B": {
         "name": "aphrodite/SanjiWatsuki/Silicon-Maid-7B",
@@ -13359,7 +13564,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Silicon-Maid-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Silicon-Maid-7B": {
         "name": "koboldcpp/Silicon-Maid-7B",
@@ -13374,7 +13580,8 @@
         "url": "https://huggingface.co/SanjiWatsuki/Silicon-Maid-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Sao10K/Euryale-1.3-L2-70B": {
         "name": "Sao10K/Euryale-1.3-L2-70B",
@@ -13388,7 +13595,8 @@
         "display_name": "Euryale 1.3 L2 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Sao10K/Euryale-1.3-L2-70B": {
         "name": "aphrodite/Sao10K/Euryale-1.3-L2-70B",
@@ -13402,7 +13610,8 @@
         "display_name": "Euryale 1.3 L2 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Euryale-1.3-L2-70B": {
         "name": "koboldcpp/Euryale-1.3-L2-70B",
@@ -13416,7 +13625,8 @@
         "display_name": "Euryale 1.3 L2 70B",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Sao10K/Fimbulvetr-11B-v2": {
         "name": "Sao10K/Fimbulvetr-11B-v2",
@@ -13485,7 +13695,8 @@
         "url": "https://huggingface.co/Sao10K/L3-70B-Euryale-v2.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/Sao10K/L3-70B-Euryale-v2.1": {
         "name": "aphrodite/Sao10K/L3-70B-Euryale-v2.1",
@@ -13500,7 +13711,8 @@
         "url": "https://huggingface.co/Sao10K/L3-70B-Euryale-v2.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3-70B-Euryale-v2.1": {
         "name": "koboldcpp/L3-70B-Euryale-v2.1",
@@ -13515,7 +13727,8 @@
         "url": "https://huggingface.co/Sao10K/L3-70B-Euryale-v2.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Sao10K/L3-8B-Lunaris-v1": {
         "name": "Sao10K/L3-8B-Lunaris-v1",
@@ -13583,7 +13796,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/Sao10K/L3-8B-Stheno-v3.1": {
         "name": "aphrodite/Sao10K/L3-8B-Stheno-v3.1",
@@ -13597,7 +13811,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3-8B-Stheno-v3.1": {
         "name": "koboldcpp/L3-8B-Stheno-v3.1",
@@ -13611,7 +13826,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Sao10K/L3-8B-Stheno-v3.2": {
         "name": "Sao10K/L3-8B-Stheno-v3.2",
@@ -13733,7 +13949,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/Sao10K/L3.1-70B-Hanami-x1": {
         "name": "aphrodite/Sao10K/L3.1-70B-Hanami-x1",
@@ -13747,7 +13964,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3.1-70B-Hanami-x1": {
         "name": "koboldcpp/L3.1-70B-Hanami-x1",
@@ -13761,7 +13979,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Sao10K/Solstice-11B-v1": {
         "name": "Sao10K/Solstice-11B-v1",
@@ -13775,7 +13994,8 @@
         "display_name": "Solstice 11B v1",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Sao10K/Solstice-11B-v1": {
         "name": "aphrodite/Sao10K/Solstice-11B-v1",
@@ -13789,7 +14009,8 @@
         "display_name": "Solstice 11B v1",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Solstice-11B-v1": {
         "name": "koboldcpp/Solstice-11B-v1",
@@ -13803,7 +14024,8 @@
         "display_name": "Solstice 11B v1",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Sao10K/Stheno-1.10-L2-13B": {
         "name": "Sao10K/Stheno-1.10-L2-13B",
@@ -13817,7 +14039,8 @@
         "display_name": "Stheno 1.10 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Sao10K/Stheno-1.10-L2-13B": {
         "name": "aphrodite/Sao10K/Stheno-1.10-L2-13B",
@@ -13831,7 +14054,8 @@
         "display_name": "Stheno 1.10 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Stheno-1.10-L2-13B": {
         "name": "koboldcpp/Stheno-1.10-L2-13B",
@@ -13845,7 +14069,8 @@
         "display_name": "Stheno 1.10 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Sao10K/Stheno-1.8-L2-13B": {
         "name": "Sao10K/Stheno-1.8-L2-13B",
@@ -13859,7 +14084,8 @@
         "display_name": "Stheno 1.8 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Sao10K/Stheno-1.8-L2-13B": {
         "name": "aphrodite/Sao10K/Stheno-1.8-L2-13B",
@@ -13873,7 +14099,8 @@
         "display_name": "Stheno 1.8 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Stheno-1.8-L2-13B": {
         "name": "koboldcpp/Stheno-1.8-L2-13B",
@@ -13887,7 +14114,8 @@
         "display_name": "Stheno 1.8 L2 13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Sao10K/SthenoWriter-L2-13B": {
         "name": "Sao10K/SthenoWriter-L2-13B",
@@ -14085,7 +14313,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Dusk_Rainbow",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3, ChatML"
     },
     "aphrodite/SicariusSicariiStuff/Dusk_Rainbow": {
         "name": "aphrodite/SicariusSicariiStuff/Dusk_Rainbow",
@@ -14100,7 +14329,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Dusk_Rainbow",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3, ChatML"
     },
     "koboldcpp/Dusk_Rainbow": {
         "name": "koboldcpp/Dusk_Rainbow",
@@ -14115,7 +14345,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Dusk_Rainbow",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3, ChatML"
     },
     "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
         "name": "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
@@ -14130,7 +14361,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
         "tags": [
             "4B"
-        ]
+        ],
+        "instruct_format": "Phi 3"
     },
     "aphrodite/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
         "name": "aphrodite/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
@@ -14145,7 +14377,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
         "tags": [
             "4B"
-        ]
+        ],
+        "instruct_format": "Phi 3"
     },
     "koboldcpp/Phi-3.5-mini-instruct_Uncensored": {
         "name": "koboldcpp/Phi-3.5-mini-instruct_Uncensored",
@@ -14160,7 +14393,8 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
         "tags": [
             "4B"
-        ]
+        ],
+        "instruct_format": "Phi 3"
     },
     "SicariusSicariiStuff/Tenebra_30B_Alpha01_FP16": {
         "name": "SicariusSicariiStuff/Tenebra_30B_Alpha01_FP16",
@@ -14400,7 +14634,8 @@
         "url": "https://huggingface.co/Steelskull/G2-DA-Nyxora-27b-V2",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2": {
         "name": "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2",
@@ -14415,7 +14650,8 @@
         "url": "https://huggingface.co/Steelskull/G2-DA-Nyxora-27b-V2",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "koboldcpp/G2-DA-Nyxora-27b-V2": {
         "name": "koboldcpp/G2-DA-Nyxora-27b-V2",
@@ -14430,7 +14666,8 @@
         "url": "https://huggingface.co/Steelskull/G2-DA-Nyxora-27b-V2",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "Tap-M/Luna-AI-Llama2-Uncensored": {
         "name": "Tap-M/Luna-AI-Llama2-Uncensored",
@@ -14445,7 +14682,8 @@
         "url": "https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Tap-M/Luna-AI-Llama2-Uncensored": {
         "name": "aphrodite/Tap-M/Luna-AI-Llama2-Uncensored",
@@ -14460,7 +14698,8 @@
         "url": "https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Luna-AI-Llama2-Uncensored": {
         "name": "koboldcpp/Luna-AI-Llama2-Uncensored",
@@ -14475,7 +14714,8 @@
         "url": "https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "TeeZee/DarkForest-20B-v2.0": {
         "name": "TeeZee/DarkForest-20B-v2.0",
@@ -14490,7 +14730,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/TeeZee/DarkForest-20B-v2.0": {
         "name": "aphrodite/TeeZee/DarkForest-20B-v2.0",
@@ -14505,7 +14746,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/DarkForest-20B-v2.0": {
         "name": "koboldcpp/DarkForest-20B-v2.0",
@@ -14520,7 +14762,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v2.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "TeeZee/DarkForest-20B-v3.0": {
         "name": "TeeZee/DarkForest-20B-v3.0",
@@ -14535,7 +14778,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v3.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/TeeZee/DarkForest-20B-v3.0": {
         "name": "aphrodite/TeeZee/DarkForest-20B-v3.0",
@@ -14550,7 +14794,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v3.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/DarkForest-20B-v3.0": {
         "name": "koboldcpp/DarkForest-20B-v3.0",
@@ -14565,7 +14810,8 @@
         "url": "https://huggingface.co/TeeZee/DarkForest-20B-v3.0",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "TeeZee/NEBULA-23.8B-v1.0": {
         "name": "TeeZee/NEBULA-23.8B-v1.0",
@@ -14580,7 +14826,8 @@
         "url": "https://huggingface.co/TeeZee/NEBULA-23.8B-v1.0",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/TeeZee/NEBULA-23.8B-v1.0": {
         "name": "aphrodite/TeeZee/NEBULA-23.8B-v1.0",
@@ -14595,7 +14842,8 @@
         "url": "https://huggingface.co/TeeZee/NEBULA-23.8B-v1.0",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/NEBULA-23.8B-v1.0": {
         "name": "koboldcpp/NEBULA-23.8B-v1.0",
@@ -14610,7 +14858,8 @@
         "url": "https://huggingface.co/TeeZee/NEBULA-23.8B-v1.0",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "TehVenom/MPT-7b-Apache-2.0": {
         "name": "TehVenom/MPT-7b-Apache-2.0",
@@ -14670,7 +14919,8 @@
         "url": "https://huggingface.co/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "aphrodite/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge": {
         "name": "aphrodite/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
@@ -14685,7 +14935,8 @@
         "url": "https://huggingface.co/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "koboldcpp/MPT-7b-Chat-Instruct-LongCTX-Merge": {
         "name": "koboldcpp/MPT-7b-Chat-Instruct-LongCTX-Merge",
@@ -14700,7 +14951,8 @@
         "url": "https://huggingface.co/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca, Vicuna"
     },
     "TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge": {
         "name": "TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge",
@@ -14937,7 +15189,8 @@
         "url": "https://huggingface.co/teknium/airoboros-mistral2.2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/teknium/airoboros-mistral2.2-7b": {
         "name": "aphrodite/teknium/airoboros-mistral2.2-7b",
@@ -14952,7 +15205,8 @@
         "url": "https://huggingface.co/teknium/airoboros-mistral2.2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/airoboros-mistral2.2-7b": {
         "name": "koboldcpp/airoboros-mistral2.2-7b",
@@ -14967,7 +15221,8 @@
         "url": "https://huggingface.co/teknium/airoboros-mistral2.2-7b",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "teknium/OpenHermes-2.5-Mistral-7B": {
         "name": "teknium/OpenHermes-2.5-Mistral-7B",
@@ -14982,7 +15237,8 @@
         "url": "https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/teknium/OpenHermes-2.5-Mistral-7B": {
         "name": "aphrodite/teknium/OpenHermes-2.5-Mistral-7B",
@@ -14997,7 +15253,8 @@
         "url": "https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/OpenHermes-2.5-Mistral-7B": {
         "name": "koboldcpp/OpenHermes-2.5-Mistral-7B",
@@ -15012,7 +15269,8 @@
         "url": "https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "TheDrummer/Big-Tiger-Gemma-27B-v1": {
         "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
@@ -15027,7 +15285,8 @@
         "url": "https://huggingface.co/TheDrummer/Big-Tiger-Gemma-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1": {
         "name": "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1",
@@ -15042,7 +15301,8 @@
         "url": "https://huggingface.co/TheDrummer/Big-Tiger-Gemma-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "koboldcpp/Big-Tiger-Gemma-27B-v1": {
         "name": "koboldcpp/Big-Tiger-Gemma-27B-v1",
@@ -15057,7 +15317,8 @@
         "url": "https://huggingface.co/TheDrummer/Big-Tiger-Gemma-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "TheDrummer/Coomand-R-35B-v1": {
         "name": "TheDrummer/Coomand-R-35B-v1",
@@ -15072,7 +15333,8 @@
         "url": "https://huggingface.co/TheDrummer/Coomand-R-35B-v1",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "aphrodite/TheDrummer/Coomand-R-35B-v1": {
         "name": "aphrodite/TheDrummer/Coomand-R-35B-v1",
@@ -15087,7 +15349,8 @@
         "url": "https://huggingface.co/TheDrummer/Coomand-R-35B-v1",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "koboldcpp/Coomand-R-35B-v1": {
         "name": "koboldcpp/Coomand-R-35B-v1",
@@ -15102,7 +15365,8 @@
         "url": "https://huggingface.co/TheDrummer/Coomand-R-35B-v1",
         "tags": [
             "35B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "TheDrummer/Cydonia-22B-v1": {
         "name": "TheDrummer/Cydonia-22B-v1",
@@ -15114,9 +15378,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Cydonia 22B v1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1",
         "tags": [
             "22B"
-        ]
+        ],
+        "instruct_format": "Mistral v3, Metharme"
     },
     "aphrodite/TheDrummer/Cydonia-22B-v1": {
         "name": "aphrodite/TheDrummer/Cydonia-22B-v1",
@@ -15128,9 +15394,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Cydonia 22B v1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1",
         "tags": [
             "22B"
-        ]
+        ],
+        "instruct_format": "Mistral v3, Metharme"
     },
     "koboldcpp/Cydonia-22B-v1": {
         "name": "koboldcpp/Cydonia-22B-v1",
@@ -15142,9 +15410,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Cydonia 22B v1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1",
         "tags": [
             "22B"
-        ]
+        ],
+        "instruct_format": "Mistral v3, Metharme"
     },
     "TheDrummer/Gemmasutra-Mini-2B-v1": {
         "name": "TheDrummer/Gemmasutra-Mini-2B-v1",
@@ -15159,7 +15429,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1": {
         "name": "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1",
@@ -15174,7 +15445,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "koboldcpp/Gemmasutra-Mini-2B-v1": {
         "name": "koboldcpp/Gemmasutra-Mini-2B-v1",
@@ -15189,7 +15461,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
             "3B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "TheDrummer/Gemmasutra-Pro-27B-v1": {
         "name": "TheDrummer/Gemmasutra-Pro-27B-v1",
@@ -15204,7 +15477,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Pro-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "aphrodite/TheDrummer/Gemmasutra-Pro-27B-v1": {
         "name": "aphrodite/TheDrummer/Gemmasutra-Pro-27B-v1",
@@ -15219,7 +15493,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Pro-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "koboldcpp/Gemmasutra-Pro-27B-v1": {
         "name": "koboldcpp/Gemmasutra-Pro-27B-v1",
@@ -15234,7 +15509,8 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Pro-27B-v1",
         "tags": [
             "27B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "TheDrummer/Llama-3SOME-8B-v1-BETA": {
         "name": "TheDrummer/Llama-3SOME-8B-v1-BETA",
@@ -15248,7 +15524,8 @@
         "display_name": "Llama 3SOME 8B v1 BETA",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/TheDrummer/Llama-3SOME-8B-v1-BETA": {
         "name": "aphrodite/TheDrummer/Llama-3SOME-8B-v1-BETA",
@@ -15262,7 +15539,8 @@
         "display_name": "Llama 3SOME 8B v1 BETA",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/Llama-3SOME-8B-v1-BETA": {
         "name": "koboldcpp/Llama-3SOME-8B-v1-BETA",
@@ -15276,7 +15554,8 @@
         "display_name": "Llama 3SOME 8B v1 BETA",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "TheDrummer/Llama-3SOME-8B-v2": {
         "name": "TheDrummer/Llama-3SOME-8B-v2",
@@ -15291,7 +15570,8 @@
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/TheDrummer/Llama-3SOME-8B-v2": {
         "name": "aphrodite/TheDrummer/Llama-3SOME-8B-v2",
@@ -15306,7 +15586,8 @@
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/Llama-3SOME-8B-v2": {
         "name": "koboldcpp/Llama-3SOME-8B-v2",
@@ -15321,7 +15602,8 @@
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "TheDrummer/Moistral-11B-v3": {
         "name": "TheDrummer/Moistral-11B-v3",
@@ -15336,7 +15618,8 @@
         "url": "https://huggingface.co/TheDrummer/Moistral-11B-v3",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/TheDrummer/Moistral-11B-v3": {
         "name": "aphrodite/TheDrummer/Moistral-11B-v3",
@@ -15351,7 +15634,8 @@
         "url": "https://huggingface.co/TheDrummer/Moistral-11B-v3",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Moistral-11B-v3": {
         "name": "koboldcpp/Moistral-11B-v3",
@@ -15366,7 +15650,8 @@
         "url": "https://huggingface.co/TheDrummer/Moistral-11B-v3",
         "tags": [
             "11B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "TheDrummer/Rocinante-12B-v1": {
         "name": "TheDrummer/Rocinante-12B-v1",
@@ -15381,7 +15666,8 @@
         "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "aphrodite/TheDrummer/Rocinante-12B-v1": {
         "name": "aphrodite/TheDrummer/Rocinante-12B-v1",
@@ -15396,7 +15682,8 @@
         "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "koboldcpp/Rocinante-12B-v1": {
         "name": "koboldcpp/Rocinante-12B-v1",
@@ -15411,7 +15698,8 @@
         "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1",
         "tags": [
             "12B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken"
     },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
@@ -15426,7 +15714,8 @@
         "url": "https://huggingface.co/TheDrummer/Smegmma-9B-v1",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "aphrodite/TheDrummer/Smegmma-9B-v1": {
         "name": "aphrodite/TheDrummer/Smegmma-9B-v1",
@@ -15441,7 +15730,8 @@
         "url": "https://huggingface.co/TheDrummer/Smegmma-9B-v1",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "koboldcpp/Smegmma-9B-v1": {
         "name": "koboldcpp/Smegmma-9B-v1",
@@ -15456,7 +15746,8 @@
         "url": "https://huggingface.co/TheDrummer/Smegmma-9B-v1",
         "tags": [
             "9B"
-        ]
+        ],
+        "instruct_format": "Gemma 2"
     },
     "TheDrummer/Star-Command-R-32B-v1": {
         "name": "TheDrummer/Star-Command-R-32B-v1",
@@ -15471,7 +15762,8 @@
         "url": "https://huggingface.co/TheDrummer/Star-Command-R-32B-v1",
         "tags": [
             "32B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "aphrodite/TheDrummer/Star-Command-R-32B-v1": {
         "name": "aphrodite/TheDrummer/Star-Command-R-32B-v1",
@@ -15486,7 +15778,8 @@
         "url": "https://huggingface.co/TheDrummer/Star-Command-R-32B-v1",
         "tags": [
             "32B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "koboldcpp/Star-Command-R-32B-v1": {
         "name": "koboldcpp/Star-Command-R-32B-v1",
@@ -15501,7 +15794,8 @@
         "url": "https://huggingface.co/TheDrummer/Star-Command-R-32B-v1",
         "tags": [
             "32B"
-        ]
+        ],
+        "instruct_format": "Command R"
     },
     "TheDrummer/Theia-21B-v2": {
         "name": "TheDrummer/Theia-21B-v2",
@@ -15516,7 +15810,8 @@
         "url": "https://huggingface.co/TheDrummer/Theia-21B-v2",
         "tags": [
             "21B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken, ChatML"
     },
     "aphrodite/TheDrummer/Theia-21B-v2": {
         "name": "aphrodite/TheDrummer/Theia-21B-v2",
@@ -15531,7 +15826,8 @@
         "url": "https://huggingface.co/TheDrummer/Theia-21B-v2",
         "tags": [
             "21B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken, ChatML"
     },
     "koboldcpp/Theia-21B-v2": {
         "name": "koboldcpp/Theia-21B-v2",
@@ -15546,7 +15842,8 @@
         "url": "https://huggingface.co/TheDrummer/Theia-21B-v2",
         "tags": [
             "21B"
-        ]
+        ],
+        "instruct_format": "Mistral Tekken, ChatML"
     },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
@@ -15561,7 +15858,8 @@
         "url": "https://huggingface.co/TheSkullery/llama-3-cat-8b-instruct-v1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "aphrodite/TheSkullery/llama-3-cat-8b-instruct-v1",
@@ -15576,7 +15874,8 @@
         "url": "https://huggingface.co/TheSkullery/llama-3-cat-8b-instruct-v1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/llama-3-cat-8b-instruct-v1": {
         "name": "koboldcpp/llama-3-cat-8b-instruct-v1",
@@ -15591,7 +15890,8 @@
         "url": "https://huggingface.co/TheSkullery/llama-3-cat-8b-instruct-v1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "tiiuae/falcon-180B": {
         "name": "tiiuae/falcon-180B",
@@ -16227,7 +16527,8 @@
         "url": "https://huggingface.co/turboderp/Cat-Llama-3-70B-instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/turboderp/Cat-Llama-3-70B-instruct": {
         "name": "aphrodite/turboderp/Cat-Llama-3-70B-instruct",
@@ -16242,7 +16543,8 @@
         "url": "https://huggingface.co/turboderp/Cat-Llama-3-70B-instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/Cat-Llama-3-70B-instruct": {
         "name": "koboldcpp/Cat-Llama-3-70B-instruct",
@@ -16257,7 +16559,8 @@
         "url": "https://huggingface.co/turboderp/Cat-Llama-3-70B-instruct",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "turboderp/llama3-turbcat-instruct-8b": {
         "name": "turboderp/llama3-turbcat-instruct-8b",
@@ -16272,7 +16575,8 @@
         "url": "https://huggingface.co/turboderp/llama3-turbcat-instruct-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/turboderp/llama3-turbcat-instruct-8b": {
         "name": "aphrodite/turboderp/llama3-turbcat-instruct-8b",
@@ -16287,7 +16591,8 @@
         "url": "https://huggingface.co/turboderp/llama3-turbcat-instruct-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/llama3-turbcat-instruct-8b": {
         "name": "koboldcpp/llama3-turbcat-instruct-8b",
@@ -16302,7 +16607,8 @@
         "url": "https://huggingface.co/turboderp/llama3-turbcat-instruct-8b",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "turboderp/turbcat-instruct-72b": {
         "name": "turboderp/turbcat-instruct-72b",
@@ -16317,7 +16623,8 @@
         "url": "https://huggingface.co/turboderp/turbcat-instruct-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/turboderp/turbcat-instruct-72b": {
         "name": "aphrodite/turboderp/turbcat-instruct-72b",
@@ -16332,7 +16639,8 @@
         "url": "https://huggingface.co/turboderp/turbcat-instruct-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/turbcat-instruct-72b": {
         "name": "koboldcpp/turbcat-instruct-72b",
@@ -16347,7 +16655,8 @@
         "url": "https://huggingface.co/turboderp/turbcat-instruct-72b",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "Undi95/Amethyst-13B-Mistral": {
         "name": "Undi95/Amethyst-13B-Mistral",
@@ -16404,7 +16713,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/Emerhyst-13B": {
         "name": "aphrodite/Undi95/Emerhyst-13B",
@@ -16419,7 +16729,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Emerhyst-13B": {
         "name": "koboldcpp/Emerhyst-13B",
@@ -16434,7 +16745,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/Emerhyst-20B": {
         "name": "Undi95/Emerhyst-20B",
@@ -16449,7 +16761,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/Emerhyst-20B": {
         "name": "aphrodite/Undi95/Emerhyst-20B",
@@ -16464,7 +16777,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Emerhyst-20B": {
         "name": "koboldcpp/Emerhyst-20B",
@@ -16479,7 +16793,8 @@
         "url": "https://huggingface.co/Undi95/Emerhyst-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/MG-FinalMix-72B": {
         "name": "Undi95/MG-FinalMix-72B",
@@ -16494,7 +16809,8 @@
         "url": "https://huggingface.co/Undi95/MG-FinalMix-72B",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/Undi95/MG-FinalMix-72B": {
         "name": "aphrodite/Undi95/MG-FinalMix-72B",
@@ -16509,7 +16825,8 @@
         "url": "https://huggingface.co/Undi95/MG-FinalMix-72B",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/MG-FinalMix-72B": {
         "name": "koboldcpp/MG-FinalMix-72B",
@@ -16524,7 +16841,8 @@
         "url": "https://huggingface.co/Undi95/MG-FinalMix-72B",
         "tags": [
             "72B"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "Undi95/MLewd-ReMM-L2-Chat-20B": {
         "name": "Undi95/MLewd-ReMM-L2-Chat-20B",
@@ -16539,7 +16857,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B": {
         "name": "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B",
@@ -16554,7 +16873,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MLewd-ReMM-L2-Chat-20B": {
         "name": "koboldcpp/MLewd-ReMM-L2-Chat-20B",
@@ -16569,7 +16889,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/MLewd-ReMM-L2-Chat-20B-Inverted": {
         "name": "Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
@@ -16584,7 +16905,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted": {
         "name": "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
@@ -16599,7 +16921,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MLewd-ReMM-L2-Chat-20B-Inverted": {
         "name": "koboldcpp/MLewd-ReMM-L2-Chat-20B-Inverted",
@@ -16614,7 +16937,8 @@
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/MXLewd-L2-20B": {
         "name": "Undi95/MXLewd-L2-20B",
@@ -16629,7 +16953,8 @@
         "url": "https://huggingface.co/Undi95/MXLewd-L2-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/MXLewd-L2-20B": {
         "name": "aphrodite/Undi95/MXLewd-L2-20B",
@@ -16644,7 +16969,8 @@
         "url": "https://huggingface.co/Undi95/MXLewd-L2-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MXLewd-L2-20B": {
         "name": "koboldcpp/MXLewd-L2-20B",
@@ -16659,7 +16985,8 @@
         "url": "https://huggingface.co/Undi95/MXLewd-L2-20B",
         "tags": [
             "20B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/MXLewdMini-L2-13B": {
         "name": "Undi95/MXLewdMini-L2-13B",
@@ -16674,7 +17001,8 @@
         "url": "https://huggingface.co/Undi95/MXLewdMini-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/MXLewdMini-L2-13B": {
         "name": "aphrodite/Undi95/MXLewdMini-L2-13B",
@@ -16689,7 +17017,8 @@
         "url": "https://huggingface.co/Undi95/MXLewdMini-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MXLewdMini-L2-13B": {
         "name": "koboldcpp/MXLewdMini-L2-13B",
@@ -16704,7 +17033,8 @@
         "url": "https://huggingface.co/Undi95/MXLewdMini-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/ReMM-SLERP-L2-13B": {
         "name": "Undi95/ReMM-SLERP-L2-13B",
@@ -16719,7 +17049,8 @@
         "url": "https://huggingface.co/Undi95/ReMM-SLERP-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/ReMM-SLERP-L2-13B": {
         "name": "aphrodite/Undi95/ReMM-SLERP-L2-13B",
@@ -16734,7 +17065,8 @@
         "url": "https://huggingface.co/Undi95/ReMM-SLERP-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/ReMM-SLERP-L2-13B": {
         "name": "koboldcpp/ReMM-SLERP-L2-13B",
@@ -16749,7 +17081,8 @@
         "url": "https://huggingface.co/Undi95/ReMM-SLERP-L2-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/Toppy-M-7B": {
         "name": "Undi95/Toppy-M-7B",
@@ -16764,7 +17097,8 @@
         "url": "https://huggingface.co/Undi95/Toppy-M-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/Toppy-M-7B": {
         "name": "aphrodite/Undi95/Toppy-M-7B",
@@ -16779,7 +17113,8 @@
         "url": "https://huggingface.co/Undi95/Toppy-M-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Toppy-M-7B": {
         "name": "koboldcpp/Toppy-M-7B",
@@ -16794,7 +17129,8 @@
         "url": "https://huggingface.co/Undi95/Toppy-M-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Undi95/Xwin-MLewd-13B-V0.2": {
         "name": "Undi95/Xwin-MLewd-13B-V0.2",
@@ -16809,7 +17145,8 @@
         "url": "https://huggingface.co/Undi95/Xwin-MLewd-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Undi95/Xwin-MLewd-13B-V0.2": {
         "name": "aphrodite/Undi95/Xwin-MLewd-13B-V0.2",
@@ -16824,7 +17161,8 @@
         "url": "https://huggingface.co/Undi95/Xwin-MLewd-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Xwin-MLewd-13B-V0.2": {
         "name": "koboldcpp/Xwin-MLewd-13B-V0.2",
@@ -16839,7 +17177,8 @@
         "url": "https://huggingface.co/Undi95/Xwin-MLewd-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "v000000/L3-8B-Poppy-Sunspice": {
         "name": "v000000/L3-8B-Poppy-Sunspice",
@@ -16854,7 +17193,8 @@
         "url": "https://huggingface.co/v000000/L3-8B-Poppy-Sunspice",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/v000000/L3-8B-Poppy-Sunspice": {
         "name": "aphrodite/v000000/L3-8B-Poppy-Sunspice",
@@ -16869,7 +17209,8 @@
         "url": "https://huggingface.co/v000000/L3-8B-Poppy-Sunspice",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3-8B-Poppy-Sunspice": {
         "name": "koboldcpp/L3-8B-Poppy-Sunspice",
@@ -16884,7 +17225,8 @@
         "url": "https://huggingface.co/v000000/L3-8B-Poppy-Sunspice",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Walmart-the-bag/Misted-7B": {
         "name": "Walmart-the-bag/Misted-7B",
@@ -16899,7 +17241,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/Misted-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Walmart-the-bag/Misted-7B": {
         "name": "aphrodite/Walmart-the-bag/Misted-7B",
@@ -16914,7 +17257,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/Misted-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/Misted-7B": {
         "name": "koboldcpp/Misted-7B",
@@ -16929,7 +17273,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/Misted-7B",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Walmart-the-bag/MysticFusion-13B": {
         "name": "Walmart-the-bag/MysticFusion-13B",
@@ -16944,7 +17289,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/MysticFusion-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/Walmart-the-bag/MysticFusion-13B": {
         "name": "aphrodite/Walmart-the-bag/MysticFusion-13B",
@@ -16959,7 +17305,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/MysticFusion-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/MysticFusion-13B": {
         "name": "koboldcpp/MysticFusion-13B",
@@ -16974,7 +17321,8 @@
         "url": "https://huggingface.co/Walmart-the-bag/MysticFusion-13B",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "Xwin-LM/Xwin-LM-13B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-13B-V0.1",
@@ -16989,7 +17337,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-13B-V0.1": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-13B-V0.1",
@@ -17004,7 +17353,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-13B-V0.1": {
         "name": "koboldcpp/Xwin-LM-13B-V0.1",
@@ -17019,7 +17369,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.1",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Xwin-LM/Xwin-LM-13B-V0.2": {
         "name": "Xwin-LM/Xwin-LM-13B-V0.2",
@@ -17034,7 +17385,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-13B-V0.2": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-13B-V0.2",
@@ -17049,7 +17401,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-13B-V0.2": {
         "name": "koboldcpp/Xwin-LM-13B-V0.2",
@@ -17064,7 +17417,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-13B-V0.2",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Xwin-LM/Xwin-LM-70B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-70B-V0.1",
@@ -17079,7 +17433,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-70B-V0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-70B-V0.1": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-70B-V0.1",
@@ -17094,7 +17449,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-70B-V0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-70B-V0.1": {
         "name": "koboldcpp/Xwin-LM-70B-V0.1",
@@ -17109,7 +17465,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-70B-V0.1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Xwin-LM/Xwin-LM-70B-V0.2": {
         "name": "Xwin-LM/Xwin-LM-70B-V0.2",
@@ -17123,7 +17480,8 @@
         "display_name": "Xwin LM 70B V0.2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-70B-V0.2": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-70B-V0.2",
@@ -17137,7 +17495,8 @@
         "display_name": "Xwin LM 70B V0.2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-70B-V0.2": {
         "name": "koboldcpp/Xwin-LM-70B-V0.2",
@@ -17151,7 +17510,8 @@
         "display_name": "Xwin LM 70B V0.2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Xwin-LM/Xwin-LM-7B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-7B-V0.1",
@@ -17166,7 +17526,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-7B-V0.1": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-7B-V0.1",
@@ -17181,7 +17542,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-7B-V0.1": {
         "name": "koboldcpp/Xwin-LM-7B-V0.1",
@@ -17196,7 +17558,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.1",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "Xwin-LM/Xwin-LM-7B-V0.2": {
         "name": "Xwin-LM/Xwin-LM-7B-V0.2",
@@ -17211,7 +17574,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "aphrodite/Xwin-LM/Xwin-LM-7B-V0.2": {
         "name": "aphrodite/Xwin-LM/Xwin-LM-7B-V0.2",
@@ -17226,7 +17590,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "koboldcpp/Xwin-LM-7B-V0.2": {
         "name": "koboldcpp/Xwin-LM-7B-V0.2",
@@ -17241,7 +17606,8 @@
         "url": "https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.2",
         "tags": [
             "7B"
-        ]
+        ],
+        "instruct_format": "Vicuna"
     },
     "xxx777xxxASD/ChaoticSoliloquy-4x8B": {
         "name": "xxx777xxxASD/ChaoticSoliloquy-4x8B",
