@@ -7976,8 +7976,7 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
+            "27B"
         ],
         "instruct_format": "Gemma"
     },
@@ -7993,8 +7992,7 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
+            "27B"
         ],
         "instruct_format": "Gemma"
     },
@@ -8010,8 +8008,7 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
+            "27B"
         ],
         "instruct_format": "Gemma"
     },
@@ -8110,7 +8107,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "aphrodite/google/gemma-3-4b-it": {
@@ -8124,7 +8122,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "koboldcpp/gemma-3-4b-it": {
@@ -8138,7 +8137,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "gpt2-large": {
@@ -14993,8 +14993,7 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
+            "28B"
         ],
         "instruct_format": "Mistral"
     },
@@ -15010,8 +15009,7 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
+            "28B"
         ],
         "instruct_format": "Mistral"
     },
@@ -15027,8 +15025,7 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
+            "28B"
         ],
         "instruct_format": "Mistral"
     },
@@ -17341,7 +17338,6 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
@@ -17367,7 +17363,6 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
@@ -17393,7 +17388,6 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
@@ -26795,8 +26789,7 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
+            "123B"
         ],
         "instruct_format": "Metharme"
     },
@@ -26812,8 +26805,7 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
+            "123B"
         ],
         "instruct_format": "Metharme"
     },
@@ -26829,8 +26821,7 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
+            "123B"
         ],
         "instruct_format": "Metharme"
     },
@@ -27643,6 +27634,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27661,6 +27653,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27679,6 +27672,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -28800,6 +28794,7 @@
             "agentic",
             "chat",
             "mathematics",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -28820,6 +28815,7 @@
             "agentic",
             "chat",
             "mathematics",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -28840,6 +28836,7 @@
             "agentic",
             "chat",
             "mathematics",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -29317,6 +29314,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
@@ -29337,6 +29335,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
@@ -29357,6 +29356,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
