@@ -387,7 +387,6 @@
             "roleplay",
             "story"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -409,7 +408,6 @@
             "roleplay",
             "story"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -431,7 +429,6 @@
             "roleplay",
             "story"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -497,8 +494,7 @@
             "27B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v3-27b-kto": {
         "name": "aphrodite/anthracite-org/magnum-v3-27b-kto",
@@ -515,8 +511,7 @@
             "27B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/magnum-v3-27b-kto": {
         "name": "koboldcpp/magnum-v3-27b-kto",
@@ -533,8 +528,7 @@
             "27B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "anthracite-org/magnum-v3-34b": {
         "name": "anthracite-org/magnum-v3-34b",
@@ -684,8 +678,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-123b": {
         "name": "aphrodite/anthracite-org/magnum-v4-123b",
@@ -700,8 +693,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/magnum-v4-123b": {
         "name": "koboldcpp/magnum-v4-123b",
@@ -716,8 +708,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "anthracite-org/magnum-v4-12b": {
         "name": "anthracite-org/magnum-v4-12b",
@@ -732,8 +723,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
         "tags": [
             "12B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-12b": {
         "name": "aphrodite/anthracite-org/magnum-v4-12b",
@@ -748,8 +738,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
         "tags": [
             "12B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/magnum-v4-12b": {
         "name": "koboldcpp/magnum-v4-12b",
@@ -764,8 +753,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
         "tags": [
             "12B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "anthracite-org/magnum-v4-22b": {
         "name": "anthracite-org/magnum-v4-22b",
@@ -780,8 +768,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-22b": {
         "name": "aphrodite/anthracite-org/magnum-v4-22b",
@@ -796,8 +783,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/magnum-v4-22b": {
         "name": "koboldcpp/magnum-v4-22b",
@@ -812,8 +798,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "anthracite-org/magnum-v4-27b": {
         "name": "anthracite-org/magnum-v4-27b",
@@ -828,8 +813,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
         "tags": [
             "27B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-27b": {
         "name": "aphrodite/anthracite-org/magnum-v4-27b",
@@ -844,8 +828,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
         "tags": [
             "27B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/magnum-v4-27b": {
         "name": "koboldcpp/magnum-v4-27b",
@@ -860,8 +843,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
         "tags": [
             "27B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "anthracite-org/magnum-v4-72b": {
         "name": "anthracite-org/magnum-v4-72b",
@@ -876,8 +858,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
         "tags": [
             "72B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-72b": {
         "name": "aphrodite/anthracite-org/magnum-v4-72b",
@@ -892,8 +873,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
         "tags": [
             "72B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/magnum-v4-72b": {
         "name": "koboldcpp/magnum-v4-72b",
@@ -908,8 +888,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
         "tags": [
             "72B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "anthracite-org/magnum-v4-9b": {
         "name": "anthracite-org/magnum-v4-9b",
@@ -924,8 +903,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
         "tags": [
             "9B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/anthracite-org/magnum-v4-9b": {
         "name": "aphrodite/anthracite-org/magnum-v4-9b",
@@ -940,8 +918,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
         "tags": [
             "9B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/magnum-v4-9b": {
         "name": "koboldcpp/magnum-v4-9b",
@@ -956,8 +933,7 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
         "tags": [
             "9B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "arcee-ai/Llama-3.1-SuperNova-Lite": {
         "name": "arcee-ai/Llama-3.1-SuperNova-Lite",
@@ -2040,8 +2016,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "aphrodite/Casual-Autopsy/L3-Super-Nova-RP-8B": {
         "name": "aphrodite/Casual-Autopsy/L3-Super-Nova-RP-8B",
@@ -2059,8 +2034,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "koboldcpp/L3-Super-Nova-RP-8B": {
         "name": "koboldcpp/L3-Super-Nova-RP-8B",
@@ -2078,8 +2052,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
@@ -2188,8 +2161,7 @@
             "popular",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/chargoddard/storytime-13b": {
         "name": "aphrodite/chargoddard/storytime-13b",
@@ -2208,8 +2180,7 @@
             "popular",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/storytime-13b": {
         "name": "koboldcpp/storytime-13b",
@@ -2228,8 +2199,7 @@
             "popular",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "chavinlo/gpt4-x-alpaca": {
         "name": "chavinlo/gpt4-x-alpaca",
@@ -2910,8 +2880,7 @@
         "url": "https://huggingface.co/concedo/Beepo-22B",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/concedo/Beepo-22B": {
         "name": "aphrodite/concedo/Beepo-22B",
@@ -2926,8 +2895,7 @@
         "url": "https://huggingface.co/concedo/Beepo-22B",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/Beepo-22B": {
         "name": "koboldcpp/Beepo-22B",
@@ -2942,8 +2910,7 @@
         "url": "https://huggingface.co/concedo/Beepo-22B",
         "tags": [
             "22B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "crestf411/daybreak-kunoichi-2dpo-7b": {
         "name": "crestf411/daybreak-kunoichi-2dpo-7b",
@@ -3339,84 +3306,84 @@
         "name": "deepseek-ai/DeepSeek-V3-Base",
         "model_name": "DeepSeek-V3-Base",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3 Base",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "aphrodite/deepseek-ai/DeepSeek-V3-Base": {
         "name": "aphrodite/deepseek-ai/DeepSeek-V3-Base",
         "model_name": "DeepSeek-V3-Base",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3 Base",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "koboldcpp/DeepSeek-V3-Base": {
         "name": "koboldcpp/DeepSeek-V3-Base",
         "model_name": "DeepSeek-V3-Base",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3 Base",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "deepseek-ai/DeepSeek-V3": {
         "name": "deepseek-ai/DeepSeek-V3",
         "model_name": "DeepSeek-V3",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "aphrodite/deepseek-ai/DeepSeek-V3": {
         "name": "aphrodite/deepseek-ai/DeepSeek-V3",
         "model_name": "DeepSeek-V3",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "koboldcpp/DeepSeek-V3": {
         "name": "koboldcpp/DeepSeek-V3",
         "model_name": "DeepSeek-V3",
         "baseline": "",
-        "parameters": 150000000000,
+        "parameters": 243000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3",
         "tags": [
-            "150B"
+            "243B"
         ]
     },
     "digitous/GPT-R": {
@@ -3567,8 +3534,7 @@
         "tags": [
             "24B",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "aphrodite/Doctor-Shotgun/MS3.2-24B-Magnum-Diamond": {
         "name": "aphrodite/Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
@@ -3583,8 +3549,7 @@
         "tags": [
             "24B",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "koboldcpp/MS3.2-24B-Magnum-Diamond": {
         "name": "koboldcpp/MS3.2-24B-Magnum-Diamond",
@@ -3599,8 +3564,7 @@
         "tags": [
             "24B",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "DreadPoor/Irix-12B-Model_Stock": {
         "name": "DreadPoor/Irix-12B-Model_Stock",
@@ -3617,8 +3581,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/DreadPoor/Irix-12B-Model_Stock": {
         "name": "aphrodite/DreadPoor/Irix-12B-Model_Stock",
@@ -3635,8 +3598,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/Irix-12B-Model_Stock": {
         "name": "koboldcpp/Irix-12B-Model_Stock",
@@ -3653,8 +3615,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "dreamgen/opus-v1.4-70b-llama3": {
         "name": "dreamgen/opus-v1.4-70b-llama3",
@@ -5653,7 +5614,6 @@
         "tags": [
             "70B"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -5673,7 +5633,6 @@
         "tags": [
             "70B"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -5693,7 +5652,6 @@
         "tags": [
             "70B"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -6792,8 +6750,7 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/FluffyKaeloky/Luminum-v0.1-123B": {
         "name": "aphrodite/FluffyKaeloky/Luminum-v0.1-123B",
@@ -6808,8 +6765,7 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/Luminum-v0.1-123B": {
         "name": "koboldcpp/Luminum-v0.1-123B",
@@ -6824,8 +6780,7 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "froggeric/WestLake-10.7B-v2": {
         "name": "froggeric/WestLake-10.7B-v2",
@@ -6841,8 +6796,7 @@
         "tags": [
             "11B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/froggeric/WestLake-10.7B-v2": {
         "name": "aphrodite/froggeric/WestLake-10.7B-v2",
@@ -6858,8 +6812,7 @@
         "tags": [
             "11B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/WestLake-10.7B-v2": {
         "name": "koboldcpp/WestLake-10.7B-v2",
@@ -6875,8 +6828,7 @@
         "tags": [
             "11B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1": {
         "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1",
@@ -6974,10 +6926,8 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma"
+            "27B"
+        ]
     },
     "aphrodite/google/gemma-2-27b-it": {
         "name": "aphrodite/google/gemma-2-27b-it",
@@ -6991,10 +6941,8 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma"
+            "27B"
+        ]
     },
     "koboldcpp/gemma-2-27b-it": {
         "name": "koboldcpp/gemma-2-27b-it",
@@ -7008,10 +6956,8 @@
         "display_name": "Gemma 2 27B IT",
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
-            "27B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma"
+            "27B"
+        ]
     },
     "google/gemma-3-12b-it": {
         "name": "google/gemma-3-12b-it",
@@ -7383,8 +7329,7 @@
             "assertive",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/Gryphe/Pantheon-RP-1.0-8b-Llama-3": {
         "name": "aphrodite/Gryphe/Pantheon-RP-1.0-8b-Llama-3",
@@ -7402,8 +7347,7 @@
             "assertive",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/Pantheon-RP-1.0-8b-Llama-3": {
         "name": "koboldcpp/Pantheon-RP-1.0-8b-Llama-3",
@@ -7421,8 +7365,7 @@
             "assertive",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "hakurei/lit-6B": {
         "name": "hakurei/lit-6B",
@@ -8203,8 +8146,7 @@
         "tags": [
             "20B",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/jebcarter/psyonic-cetacean-20B": {
         "name": "aphrodite/jebcarter/psyonic-cetacean-20B",
@@ -8220,8 +8162,7 @@
         "tags": [
             "20B",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/psyonic-cetacean-20B": {
         "name": "koboldcpp/psyonic-cetacean-20B",
@@ -8237,8 +8178,7 @@
         "tags": [
             "20B",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "jondurbin/airoboros-33b-gpt4-1.2": {
         "name": "jondurbin/airoboros-33b-gpt4-1.2",
@@ -8792,8 +8732,7 @@
             "13B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/KatyTheCutie/EstopianMaid-13B": {
         "name": "aphrodite/KatyTheCutie/EstopianMaid-13B",
@@ -8810,8 +8749,7 @@
             "13B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/EstopianMaid-13B": {
         "name": "koboldcpp/EstopianMaid-13B",
@@ -8828,8 +8766,7 @@
             "13B",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "knifeayumu/Behemoth-v1.1-Magnum-v4-123B": {
         "name": "knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
@@ -8894,8 +8831,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
@@ -8915,8 +8851,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "koboldcpp/Cydonia-v1.3-Magnum-v4-22B",
@@ -8936,8 +8871,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "knifeayumu/Cydonia-v4-MS3.2-Magnum-Diamond-24B": {
         "name": "knifeayumu/Cydonia-v4-MS3.2-Magnum-Diamond-24B",
@@ -10623,8 +10557,7 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR",
@@ -10639,8 +10572,7 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/LLaMA2-13B-TiefighterLR": {
         "name": "koboldcpp/LLaMA2-13B-TiefighterLR",
@@ -10655,8 +10587,7 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "KoboldAI/LLaMA2-13B-TieWriter": {
         "name": "KoboldAI/LLaMA2-13B-TieWriter",
@@ -11345,8 +11276,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/kyx0r/Neona-12B": {
         "name": "aphrodite/kyx0r/Neona-12B",
@@ -11363,8 +11293,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/Neona-12B": {
         "name": "koboldcpp/Neona-12B",
@@ -11381,8 +11310,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "LatitudeGames/Harbinger-24B": {
         "name": "LatitudeGames/Harbinger-24B",
@@ -13065,8 +12993,7 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "aphrodite/mistralai/Mistral-Large-Instruct-2411": {
         "name": "aphrodite/mistralai/Mistral-Large-Instruct-2411",
@@ -13081,8 +13008,7 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "koboldcpp/Mistral-Large-Instruct-2411": {
         "name": "koboldcpp/Mistral-Large-Instruct-2411",
@@ -13097,8 +13023,7 @@
         "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
         "tags": [
             "123B"
-        ],
-        "instruct_format": "Mistral"
+        ]
     },
     "mistralai/Mistral-Nemo-Instruct-2407": {
         "name": "mistralai/Mistral-Nemo-Instruct-2407",
@@ -13286,10 +13211,8 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
-        ],
-        "instruct_format": "Mistral"
+            "28B"
+        ]
     },
     "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
@@ -13303,10 +13226,8 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
-        ],
-        "instruct_format": "Mistral"
+            "28B"
+        ]
     },
     "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
@@ -13320,10 +13241,8 @@
         "display_name": "Mixtral 8x7B Instruct v0.1",
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
-            "28B",
-            "generalist"
-        ],
-        "instruct_format": "Mistral"
+            "28B"
+        ]
     },
     "mlabonne/llama-2-7b-guanaco": {
         "name": "mlabonne/llama-2-7b-guanaco",
@@ -13384,8 +13303,7 @@
         "tags": [
             "8B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/mlabonne/NeuralDaredevil-8B-abliterated": {
         "name": "aphrodite/mlabonne/NeuralDaredevil-8B-abliterated",
@@ -13401,8 +13319,7 @@
         "tags": [
             "8B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/NeuralDaredevil-8B-abliterated": {
         "name": "koboldcpp/NeuralDaredevil-8B-abliterated",
@@ -13418,8 +13335,7 @@
         "tags": [
             "8B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "moonshotai/Kimi-K2-Instruct": {
         "name": "moonshotai/Kimi-K2-Instruct",
@@ -13902,8 +13818,7 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -13918,8 +13833,7 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -13934,8 +13848,7 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
         "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1",
@@ -14048,7 +13961,6 @@
             "12B",
             "chat"
         ],
-        "instruct_format": "Mistral",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14069,7 +13981,6 @@
             "12B",
             "chat"
         ],
-        "instruct_format": "Mistral",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14090,7 +14001,6 @@
             "12B",
             "chat"
         ],
-        "instruct_format": "Mistral",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14471,7 +14381,6 @@
             "28B",
             "roleplay"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.3,
             "min_p": 0.03,
@@ -14493,7 +14402,6 @@
             "28B",
             "roleplay"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.3,
             "min_p": 0.03,
@@ -14515,7 +14423,6 @@
             "28B",
             "roleplay"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.3,
             "min_p": 0.03,
@@ -14687,7 +14594,6 @@
             "12B",
             "roleplay"
         ],
-        "instruct_format": "Alpaca",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14708,7 +14614,6 @@
             "12B",
             "roleplay"
         ],
-        "instruct_format": "Alpaca",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14729,7 +14634,6 @@
             "12B",
             "roleplay"
         ],
-        "instruct_format": "Alpaca",
         "settings": {
             "temperature": 0.75,
             "min_p": 0.1
@@ -14976,8 +14880,7 @@
             "Bilingual",
             "Chat",
             "Roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/OddTheGreat/Apparatus_24B": {
         "name": "aphrodite/OddTheGreat/Apparatus_24B",
@@ -14995,8 +14898,7 @@
             "Bilingual",
             "Chat",
             "Roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/Apparatus_24B": {
         "name": "koboldcpp/Apparatus_24B",
@@ -15014,8 +14916,7 @@
             "Bilingual",
             "Chat",
             "Roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "openaccess-ai-collective/manticore-13b": {
         "name": "openaccess-ai-collective/manticore-13b",
@@ -15120,8 +15021,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/ParasiticRogue/EVA-Instruct-32B-v2": {
         "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B-v2",
@@ -15136,8 +15036,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/EVA-Instruct-32B-v2": {
         "name": "koboldcpp/EVA-Instruct-32B-v2",
@@ -15152,8 +15051,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "ParasiticRogue/EVA-Instruct-32B": {
         "name": "ParasiticRogue/EVA-Instruct-32B",
@@ -15168,8 +15066,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/ParasiticRogue/EVA-Instruct-32B": {
         "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B",
@@ -15184,8 +15081,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/EVA-Instruct-32B": {
         "name": "koboldcpp/EVA-Instruct-32B",
@@ -15200,8 +15096,7 @@
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
         "tags": [
             "32B"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "ParasiticRogue/Instant-RP-Noodles-12B-v1.4": {
         "name": "ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
@@ -15349,12 +15244,10 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.0,
             "top_p": 0.95,
@@ -15375,12 +15268,10 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.0,
             "top_p": 0.95,
@@ -15401,12 +15292,10 @@
         "tags": [
             "24B",
             "code",
-            "generalist",
             "roleplay",
             "science",
             "storywriting"
         ],
-        "instruct_format": "ChatML",
         "settings": {
             "temperature": 1.0,
             "top_p": 0.95,
@@ -20253,8 +20142,7 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/ReadyArt/Forgotten-Safeword-22B": {
         "name": "aphrodite/ReadyArt/Forgotten-Safeword-22B",
@@ -20272,8 +20160,7 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Forgotten-Safeword-22B": {
         "name": "koboldcpp/Forgotten-Safeword-22B",
@@ -20291,8 +20178,7 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "ReadyArt/Forgotten-Safeword-70B-v5.0": {
         "name": "ReadyArt/Forgotten-Safeword-70B-v5.0",
@@ -20434,8 +20320,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "GLM-4"
+        ]
     },
     "aphrodite/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B": {
         "name": "aphrodite/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
@@ -20454,8 +20339,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "GLM-4"
+        ]
     },
     "koboldcpp/Omega-Darkest_The-Broken-Tutu-GLM-32B": {
         "name": "koboldcpp/Omega-Darkest_The-Broken-Tutu-GLM-32B",
@@ -20474,8 +20358,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "GLM-4"
+        ]
     },
     "ReadyArt/The-Omega-Directive-M-24B-v1.1": {
         "name": "ReadyArt/The-Omega-Directive-M-24B-v1.1",
@@ -20711,8 +20594,7 @@
             "11B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/Sao10K/Fimbulvetr-11B-v2": {
         "name": "aphrodite/Sao10K/Fimbulvetr-11B-v2",
@@ -20729,8 +20611,7 @@
             "11B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/Fimbulvetr-11B-v2": {
         "name": "koboldcpp/Fimbulvetr-11B-v2",
@@ -20747,8 +20628,7 @@
             "11B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "Sao10K/L3-70B-Euryale-v2.1": {
         "name": "Sao10K/L3-70B-Euryale-v2.1",
@@ -20810,8 +20690,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/Sao10K/L3-8B-Lunaris-v1": {
         "name": "aphrodite/Sao10K/L3-8B-Lunaris-v1",
@@ -20828,8 +20707,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/L3-8B-Lunaris-v1": {
         "name": "koboldcpp/L3-8B-Lunaris-v1",
@@ -20846,8 +20724,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "Sao10K/L3-8B-Stheno-v3.1": {
         "name": "Sao10K/L3-8B-Stheno-v3.1",
@@ -20861,8 +20738,7 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/Sao10K/L3-8B-Stheno-v3.1": {
         "name": "aphrodite/Sao10K/L3-8B-Stheno-v3.1",
@@ -20876,8 +20752,7 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/L3-8B-Stheno-v3.1": {
         "name": "koboldcpp/L3-8B-Stheno-v3.1",
@@ -20891,8 +20766,7 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "Sao10K/L3-8B-Stheno-v3.2": {
         "name": "Sao10K/L3-8B-Stheno-v3.2",
@@ -21101,8 +20975,7 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/Sao10K/L3.1-70B-Hanami-x1": {
         "name": "aphrodite/Sao10K/L3.1-70B-Hanami-x1",
@@ -21116,8 +20989,7 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/L3.1-70B-Hanami-x1": {
         "name": "koboldcpp/L3.1-70B-Hanami-x1",
@@ -21131,8 +21003,7 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
         "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
@@ -21409,8 +21280,7 @@
         "tags": [
             "7B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/senseable/WestLake-7B-v2": {
         "name": "aphrodite/senseable/WestLake-7B-v2",
@@ -21426,8 +21296,7 @@
         "tags": [
             "7B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/WestLake-7B-v2": {
         "name": "koboldcpp/WestLake-7B-v2",
@@ -21443,8 +21312,7 @@
         "tags": [
             "7B",
             "roleplay"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "Sicarius-Prototyping/Impish_Longtail_12B": {
         "name": "Sicarius-Prototyping/Impish_Longtail_12B",
@@ -21718,8 +21586,7 @@
         "tags": [
             "3B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B": {
         "name": "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B",
@@ -21735,8 +21602,7 @@
         "tags": [
             "3B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/Impish_LLAMA_3B": {
         "name": "koboldcpp/Impish_LLAMA_3B",
@@ -21752,8 +21618,7 @@
         "tags": [
             "3B",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "SicariusSicariiStuff/Impish_LLAMA_4B": {
         "name": "SicariusSicariiStuff/Impish_LLAMA_4B",
@@ -23807,8 +23672,7 @@
             "111B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "CommandR"
+        ]
     },
     "aphrodite/TheDrummer/Agatha-111B-v1": {
         "name": "aphrodite/TheDrummer/Agatha-111B-v1",
@@ -23825,8 +23689,7 @@
             "111B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "CommandR"
+        ]
     },
     "koboldcpp/Agatha-111B-v1": {
         "name": "koboldcpp/Agatha-111B-v1",
@@ -23843,8 +23706,7 @@
             "111B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "CommandR"
+        ]
     },
     "TheDrummer/Anubis-70B-v1.1": {
         "name": "TheDrummer/Anubis-70B-v1.1",
@@ -23862,8 +23724,7 @@
             "chat",
             "rolplay",
             "unaligned"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "aphrodite/TheDrummer/Anubis-70B-v1.1": {
         "name": "aphrodite/TheDrummer/Anubis-70B-v1.1",
@@ -23881,8 +23742,7 @@
             "chat",
             "rolplay",
             "unaligned"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "koboldcpp/Anubis-70B-v1.1": {
         "name": "koboldcpp/Anubis-70B-v1.1",
@@ -23900,8 +23760,7 @@
             "chat",
             "rolplay",
             "unaligned"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "TheDrummer/Anubis-Pro-105B-v1": {
         "name": "TheDrummer/Anubis-Pro-105B-v1",
@@ -24092,10 +23951,8 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
-        ],
-        "instruct_format": "Metharme"
+            "123B"
+        ]
     },
     "aphrodite/TheDrummer/Behemoth-123B-v2": {
         "name": "aphrodite/TheDrummer/Behemoth-123B-v2",
@@ -24109,10 +23966,8 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
-        ],
-        "instruct_format": "Metharme"
+            "123B"
+        ]
     },
     "koboldcpp/Behemoth-123B-v2": {
         "name": "koboldcpp/Behemoth-123B-v2",
@@ -24126,10 +23981,8 @@
         "display_name": "Behemoth 123B v2.0",
         "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
         "tags": [
-            "123B",
-            "generalist"
-        ],
-        "instruct_format": "Metharme"
+            "123B"
+        ]
     },
     "TheDrummer/Behemoth-123B-v2.1": {
         "name": "TheDrummer/Behemoth-123B-v2.1",
@@ -24145,8 +23998,7 @@
         "tags": [
             "123B",
             "roleplay"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "aphrodite/TheDrummer/Behemoth-123B-v2.1": {
         "name": "aphrodite/TheDrummer/Behemoth-123B-v2.1",
@@ -24162,8 +24014,7 @@
         "tags": [
             "123B",
             "roleplay"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "koboldcpp/Behemoth-123B-v2.1": {
         "name": "koboldcpp/Behemoth-123B-v2.1",
@@ -24179,8 +24030,7 @@
         "tags": [
             "123B",
             "roleplay"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "TheDrummer/Behemoth-123B-v2.2": {
         "name": "TheDrummer/Behemoth-123B-v2.2",
@@ -24196,8 +24046,7 @@
         "tags": [
             "123B",
             "story"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "aphrodite/TheDrummer/Behemoth-123B-v2.2": {
         "name": "aphrodite/TheDrummer/Behemoth-123B-v2.2",
@@ -24213,8 +24062,7 @@
         "tags": [
             "123B",
             "story"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "koboldcpp/Behemoth-123B-v2.2": {
         "name": "koboldcpp/Behemoth-123B-v2.2",
@@ -24230,8 +24078,7 @@
         "tags": [
             "123B",
             "story"
-        ],
-        "instruct_format": "Metharme"
+        ]
     },
     "TheDrummer/Big-Alice-28B-v1": {
         "name": "TheDrummer/Big-Alice-28B-v1",
@@ -24557,8 +24404,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v2.1": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v2.1",
@@ -24575,8 +24421,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v2.1": {
         "name": "koboldcpp/Cydonia-24B-v2.1",
@@ -24593,8 +24438,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Cydonia-24B-v3": {
         "name": "TheDrummer/Cydonia-24B-v3",
@@ -24612,8 +24456,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v3": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v3",
@@ -24631,8 +24474,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v3": {
         "name": "koboldcpp/Cydonia-24B-v3",
@@ -24650,8 +24492,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Cydonia-24B-v3.1": {
         "name": "TheDrummer/Cydonia-24B-v3.1",
@@ -24669,8 +24510,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v3.1": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v3.1",
@@ -24688,8 +24528,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v3.1": {
         "name": "koboldcpp/Cydonia-24B-v3.1",
@@ -24707,8 +24546,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral v7 Tekken"
+        ]
     },
     "TheDrummer/Cydonia-24B-v4": {
         "name": "TheDrummer/Cydonia-24B-v4",
@@ -24725,8 +24563,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v4": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v4",
@@ -24743,8 +24580,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v4": {
         "name": "koboldcpp/Cydonia-24B-v4",
@@ -24761,8 +24597,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "TheDrummer/Cydonia-24B-v4.1": {
         "name": "TheDrummer/Cydonia-24B-v4.1",
@@ -24780,8 +24615,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v4.1": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v4.1",
@@ -24799,8 +24633,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v4.1": {
         "name": "koboldcpp/Cydonia-24B-v4.1",
@@ -24818,8 +24651,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Cydonia-24B-v4.2.0": {
         "name": "TheDrummer/Cydonia-24B-v4.2.0",
@@ -24836,8 +24668,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-24B-v4.2.0": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v4.2.0",
@@ -24854,8 +24685,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Cydonia-24B-v4.2.0": {
         "name": "koboldcpp/Cydonia-24B-v4.2.0",
@@ -24872,8 +24702,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Cydonia-R1-24B-v4": {
         "name": "TheDrummer/Cydonia-R1-24B-v4",
@@ -24891,8 +24720,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-R1-24B-v4": {
         "name": "aphrodite/TheDrummer/Cydonia-R1-24B-v4",
@@ -24910,8 +24738,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "koboldcpp/Cydonia-R1-24B-v4": {
         "name": "koboldcpp/Cydonia-R1-24B-v4",
@@ -24929,8 +24756,7 @@
             "CoT",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 tekken"
+        ]
     },
     "TheDrummer/Cydonia-ReduX-22B-v1.1": {
         "name": "TheDrummer/Cydonia-ReduX-22B-v1.1",
@@ -24947,8 +24773,7 @@
             "22B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
+        ]
     },
     "aphrodite/TheDrummer/Cydonia-ReduX-22B-v1.1": {
         "name": "aphrodite/TheDrummer/Cydonia-ReduX-22B-v1.1",
@@ -24965,8 +24790,7 @@
             "22B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
+        ]
     },
     "koboldcpp/Cydonia-ReduX-22B-v1.1": {
         "name": "koboldcpp/Cydonia-ReduX-22B-v1.1",
@@ -24983,8 +24807,7 @@
             "22B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
+        ]
     },
     "TheDrummer/Fallen-Gemma3-27B-v1": {
         "name": "TheDrummer/Fallen-Gemma3-27B-v1",
@@ -25263,8 +25086,7 @@
             "ERP",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "aphrodite/TheDrummer/Llama-3SOME-8B-v2": {
         "name": "aphrodite/TheDrummer/Llama-3SOME-8B-v2",
@@ -25282,8 +25104,7 @@
             "ERP",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "koboldcpp/Llama-3SOME-8B-v2": {
         "name": "koboldcpp/Llama-3SOME-8B-v2",
@@ -25301,8 +25122,7 @@
             "ERP",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Instruct"
+        ]
     },
     "TheDrummer/Magidonia-24B-v4.2.0": {
         "name": "TheDrummer/Magidonia-24B-v4.2.0",
@@ -25319,8 +25139,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Magidonia-24B-v4.2.0": {
         "name": "aphrodite/TheDrummer/Magidonia-24B-v4.2.0",
@@ -25337,8 +25156,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Magidonia-24B-v4.2.0": {
         "name": "koboldcpp/Magidonia-24B-v4.2.0",
@@ -25355,8 +25173,7 @@
             "24B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Ministrations-8B-v1": {
         "name": "TheDrummer/Ministrations-8B-v1",
@@ -25599,8 +25416,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Skyfall-31B-v4": {
         "name": "aphrodite/TheDrummer/Skyfall-31B-v4",
@@ -25618,8 +25434,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Skyfall-31B-v4": {
         "name": "koboldcpp/Skyfall-31B-v4",
@@ -25637,8 +25452,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Skyfall-36B-v2": {
         "name": "TheDrummer/Skyfall-36B-v2",
@@ -25658,8 +25472,7 @@
             "mathematics",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/TheDrummer/Skyfall-36B-v2": {
         "name": "aphrodite/TheDrummer/Skyfall-36B-v2",
@@ -25679,8 +25492,7 @@
             "mathematics",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Skyfall-36B-v2": {
         "name": "koboldcpp/Skyfall-36B-v2",
@@ -25700,8 +25512,7 @@
             "mathematics",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
@@ -25764,8 +25575,7 @@
             "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/TheDrummer/Snowpiercer-15B-v1": {
         "name": "aphrodite/TheDrummer/Snowpiercer-15B-v1",
@@ -25783,8 +25593,7 @@
             "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/Snowpiercer-15B-v1": {
         "name": "koboldcpp/Snowpiercer-15B-v1",
@@ -25802,8 +25611,7 @@
             "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "TheDrummer/Star-Command-R-32B-v1": {
         "name": "TheDrummer/Star-Command-R-32B-v1",
@@ -25912,8 +25720,7 @@
             "popular",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Chat"
+        ]
     },
     "aphrodite/TheDrummer/Valkyrie-49B-v1": {
         "name": "aphrodite/TheDrummer/Valkyrie-49B-v1",
@@ -25932,8 +25739,7 @@
             "popular",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Chat"
+        ]
     },
     "koboldcpp/Valkyrie-49B-v1": {
         "name": "koboldcpp/Valkyrie-49B-v1",
@@ -25952,8 +25758,7 @@
             "popular",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3 Chat"
+        ]
     },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
@@ -28065,8 +27870,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/yamatazen/NeonMaid-12B-v2": {
         "name": "aphrodite/yamatazen/NeonMaid-12B-v2",
@@ -28084,8 +27888,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/NeonMaid-12B-v2": {
         "name": "koboldcpp/NeonMaid-12B-v2",
@@ -28103,8 +27906,7 @@
             "chat",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "yamatazen/EtherealAurora-12B-v2": {
         "name": "yamatazen/EtherealAurora-12B-v2",
@@ -28121,8 +27923,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/yamatazen/EtherealAurora-12B-v2": {
         "name": "aphrodite/yamatazen/EtherealAurora-12B-v2",
@@ -28139,8 +27940,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/EtherealAurora-12B-v2": {
         "name": "koboldcpp/EtherealAurora-12B-v2",
@@ -28157,8 +27957,7 @@
             "12B",
             "chat",
             "roleplay"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "LatitudeGames/Muse-12B": {
         "name": "LatitudeGames/Muse-12B",
@@ -28176,8 +27975,7 @@
             "chat",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "aphrodite/LatitudeGames/Muse-12B": {
         "name": "aphrodite/LatitudeGames/Muse-12B",
@@ -28195,8 +27993,7 @@
             "chat",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "koboldcpp/Muse-12B": {
         "name": "koboldcpp/Muse-12B",
@@ -28214,8 +28011,7 @@
             "chat",
             "roleplay",
             "storytelling"
-        ],
-        "instruct_format": "ChatML"
+        ]
     },
     "zai-org/GLM-4.5-Air": {
         "name": "zai-org/GLM-4.5-Air",
@@ -28257,6 +28053,390 @@
         "display_name": "GLM 4.5 Air",
         "tags": [
             "55B"
+        ]
+    },
+    "ReadyArt/Dark-Nexus-12B-v2.0": {
+        "name": "ReadyArt/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "aphrodite/ReadyArt/Dark-Nexus-12B-v2.0": {
+        "name": "aphrodite/ReadyArt/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "koboldcpp/Dark-Nexus-12B-v2.0": {
+        "name": "koboldcpp/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "ReadyArt/Dark-Nexus-24B-v2.0": {
+        "name": "ReadyArt/Dark-Nexus-24B-v2.0",
+        "model_name": "Dark-Nexus-24B-v2.0",
+        "baseline": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "parameters": 24000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 24B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-24B-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "aphrodite/ReadyArt/Dark-Nexus-24B-v2.0": {
+        "name": "aphrodite/ReadyArt/Dark-Nexus-24B-v2.0",
+        "model_name": "Dark-Nexus-24B-v2.0",
+        "baseline": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "parameters": 24000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 24B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-24B-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "koboldcpp/Dark-Nexus-24B-v2.0": {
+        "name": "koboldcpp/Dark-Nexus-24B-v2.0",
+        "model_name": "Dark-Nexus-24B-v2.0",
+        "baseline": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "parameters": 24000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 24B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-24B-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "ReadyArt/Dark-Nexus-32B-v2.0": {
+        "name": "ReadyArt/Dark-Nexus-32B-v2.0",
+        "model_name": "Dark-Nexus-32B-v2.0",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 33000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 32B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-32B-v2.0",
+        "tags": [
+            "33B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "aphrodite/ReadyArt/Dark-Nexus-32B-v2.0": {
+        "name": "aphrodite/ReadyArt/Dark-Nexus-32B-v2.0",
+        "model_name": "Dark-Nexus-32B-v2.0",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 33000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 32B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-32B-v2.0",
+        "tags": [
+            "33B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "koboldcpp/Dark-Nexus-32B-v2.0": {
+        "name": "koboldcpp/Dark-Nexus-32B-v2.0",
+        "model_name": "Dark-Nexus-32B-v2.0",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 33000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 32B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-32B-v2.0",
+        "tags": [
+            "33B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "TheDrummer/Behemoth-X-123B-v2.1": {
+        "name": "TheDrummer/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Behemoth-X-123B-v2.1": {
+        "name": "aphrodite/TheDrummer/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Behemoth-X-123B-v2.1": {
+        "name": "koboldcpp/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "TheDrummer/Valkyrie-49B-v2": {
+        "name": "TheDrummer/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Valkyrie-49B-v2": {
+        "name": "aphrodite/TheDrummer/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Valkyrie-49B-v2": {
+        "name": "koboldcpp/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "zai-org/GLM-4.6": {
+        "name": "zai-org/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 200000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "200B"
+        ]
+    },
+    "aphrodite/zai-org/GLM-4.6": {
+        "name": "aphrodite/zai-org/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 200000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "200B"
+        ]
+    },
+    "koboldcpp/GLM-4.6": {
+        "name": "koboldcpp/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 200000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "200B"
+        ]
+    },
+    "https://huggingface.co/Undi95/Lumimaid-Magnum-12B": {
+        "name": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/https://huggingface.co/Undi95/Lumimaid-Magnum-12B": {
+        "name": "aphrodite/https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/": {
+        "name": "koboldcpp/",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
         ]
     }
 }
