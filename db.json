@@ -11,7 +11,8 @@
         "display_name": "Marx 3B V3",
         "url": "https://huggingface.co/acrastt/Marx-3B-V3",
         "tags": [
-            "3B"
+            "3B",
+            "generalist"
         ],
         "settings": {
             "temperature": 0.7,
@@ -32,7 +33,8 @@
         "display_name": "Marx 3B V3",
         "url": "https://huggingface.co/acrastt/Marx-3B-V3",
         "tags": [
-            "3B"
+            "3B",
+            "generalist"
         ],
         "settings": {
             "temperature": 0.7,
@@ -53,7 +55,8 @@
         "display_name": "Marx 3B V3",
         "url": "https://huggingface.co/acrastt/Marx-3B-V3",
         "tags": [
-            "3B"
+            "3B",
+            "generalist"
         ],
         "settings": {
             "temperature": 0.7,
@@ -74,7 +77,8 @@
         "display_name": "Enterredaas 33b",
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
-            "33B"
+            "33B",
+            "generalist"
         ]
     },
     "aphrodite/Aeala/Enterredaas-33b": {
@@ -89,7 +93,8 @@
         "display_name": "Enterredaas 33b",
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
-            "33B"
+            "33B",
+            "generalist"
         ]
     },
     "koboldcpp/Enterredaas-33b": {
@@ -104,7 +109,8 @@
         "display_name": "Enterredaas 33b",
         "url": "https://huggingface.co/Aeala/Enterredaas-33b",
         "tags": [
-            "33B"
+            "33B",
+            "generalist"
         ]
     },
     "Aeala/Enterredaas-65b": {
@@ -119,7 +125,8 @@
         "display_name": "Enterredaas 65b",
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
-            "65B"
+            "65B",
+            "generalist"
         ]
     },
     "aphrodite/Aeala/Enterredaas-65b": {
@@ -134,7 +141,8 @@
         "display_name": "Enterredaas 65b",
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
-            "65B"
+            "65B",
+            "generalist"
         ]
     },
     "koboldcpp/Enterredaas-65b": {
@@ -149,7 +157,8 @@
         "display_name": "Enterredaas 65b",
         "url": "https://huggingface.co/Aeala/Enterredaas-65b",
         "tags": [
-            "65B"
+            "65B",
+            "generalist"
         ]
     },
     "aetherwiing/MN-12B-Starcannon-v3": {
@@ -163,7 +172,8 @@
         "nsfw": false,
         "display_name": "MN 12B Starcannon v3",
         "tags": [
-            "12B"
+            "12B",
+            "generalist"
         ]
     },
     "aphrodite/aetherwiing/MN-12B-Starcannon-v3": {
@@ -177,7 +187,8 @@
         "nsfw": false,
         "display_name": "MN 12B Starcannon v3",
         "tags": [
-            "12B"
+            "12B",
+            "generalist"
         ]
     },
     "koboldcpp/MN-12B-Starcannon-v3": {
@@ -191,7 +202,8 @@
         "nsfw": false,
         "display_name": "MN 12B Starcannon v3",
         "tags": [
-            "12B"
+            "12B",
+            "generalist"
         ]
     },
     "ai21labs/AI21-Jamba-1.5-Mini": {
@@ -206,7 +218,8 @@
         "display_name": "AI21 Jamba 1.5 Mini",
         "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini",
         "tags": [
-            "26B"
+            "26B",
+            "generalist"
         ]
     },
     "aphrodite/ai21labs/AI21-Jamba-1.5-Mini": {
@@ -221,7 +234,8 @@
         "display_name": "AI21 Jamba 1.5 Mini",
         "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini",
         "tags": [
-            "26B"
+            "26B",
+            "generalist"
         ]
     },
     "koboldcpp/AI21-Jamba-1.5-Mini": {
@@ -236,7 +250,8 @@
         "display_name": "AI21 Jamba 1.5 Mini",
         "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini",
         "tags": [
-            "26B"
+            "26B",
+            "generalist"
         ]
     },
     "allura-org/MS-Meadowlark-22B": {
@@ -251,7 +266,8 @@
         "display_name": "MS Meadowlark 22B",
         "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
         "tags": [
-            "22B"
+            "22B",
+            "generalist"
         ]
     },
     "aphrodite/allura-org/MS-Meadowlark-22B": {
@@ -266,7 +282,8 @@
         "display_name": "MS Meadowlark 22B",
         "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
         "tags": [
-            "22B"
+            "22B",
+            "generalist"
         ]
     },
     "koboldcpp/MS-Meadowlark-22B": {
@@ -281,7 +298,8 @@
         "display_name": "MS Meadowlark 22B",
         "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
         "tags": [
-            "22B"
+            "22B",
+            "generalist"
         ]
     },
     "allura-org/Tlacuilo-12B": {
